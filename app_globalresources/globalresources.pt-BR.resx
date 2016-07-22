@@ -1,0 +1,1281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="//AboutUs.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Quem somos</value>
+  </data>
+  <data name="//AboutUs//StyleGuide.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Guia de estilo</value>
+  </data>
+  <data name="//ActivityFeed.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Feed de actividade</value>
+  </data>
+  <data name="//ActivityFeed//Friends.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Amigos</value>
+  </data>
+  <data name="//ActivityFeed//Messages.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Mensagens</value>
+  </data>
+  <data name="//ActivityFeed//MyProfile.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Meu perfil</value>
+  </data>
+  <data name="//Admin.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Admin</value>
+  </data>
+  <data name="//Admin//AdvancedSettings.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Configurações avançadas</value>
+  </data>
+  <data name="//Admin//AdvancedURLManagement.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Gestão avançada de URL</value>
+  </data>
+  <data name="//Admin//ContentStaging.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Plataforma de conteúdo</value>
+  </data>
+  <data name="//Admin//DevicePreviewManagement.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Gerenciamento de visualização de dispositivos</value>
+  </data>
+  <data name="//Admin//Extensions.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Extensões</value>
+  </data>
+  <data name="//Admin//FileManagement.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Gerenciamento de arquivos</value>
+  </data>
+  <data name="//Admin//FileManager.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Gerenciador de arquivos</value>
+  </data>
+  <data name="//Admin//GoogleAnalytics.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Google Analytics</value>
+  </data>
+  <data name="//Admin//GoogleAnalyticsPro.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Google Analytics Pro</value>
+  </data>
+  <data name="//Admin//Languages.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Idiomas</value>
+  </data>
+  <data name="//Admin//Lists.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Listas de</value>
+  </data>
+  <data name="//Admin//LogViewer.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Visualizador de eventos</value>
+  </data>
+  <data name="//Admin//Newsletters.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Boletins informativos</value>
+  </data>
+  <data name="//Admin//Pages.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Gestão da página</value>
+  </data>
+  <data name="//Admin//RecycleBin.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Lixeira</value>
+  </data>
+  <data name="//Admin//SearchAdmin.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Pesquisa de Admin</value>
+  </data>
+  <data name="//Admin//SearchEngineSiteMap.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Motor de busca mapa do Site</value>
+  </data>
+  <data name="//Admin//SecurityRoles.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Funções de segurança</value>
+  </data>
+  <data name="//Admin//SharePointConnector.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Conector do SharePoint</value>
+  </data>
+  <data name="//Admin//SiteRedirectionManagement.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Gerenciamento de redirecionamento de site</value>
+  </data>
+  <data name="//Admin//SiteSettings.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Configurações do site</value>
+  </data>
+  <data name="//Admin//SiteWizard.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Assistente do site</value>
+  </data>
+  <data name="//Admin//Skins.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Temas</value>
+  </data>
+  <data name="//Admin//Tabs.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Páginas</value>
+  </data>
+  <data name="//Admin//Taxonomy.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Taxonomia</value>
+  </data>
+  <data name="//Admin//UserAccounts.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Contas de usuário</value>
+  </data>
+  <data name="//Admin//UserSwitcher.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Alternador de usuário</value>
+  </data>
+  <data name="//Admin//Vendors.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Fornecedores</value>
+  </data>
+  <data name="//ContactUs.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Contate-nos</value>
+  </data>
+  <data name="//Home.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Casa</value>
+  </data>
+  <data name="//Host.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Acolhimento</value>
+  </data>
+  <data name="//Host//ConfigurationManager.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Gerente de configuração</value>
+  </data>
+  <data name="//Host//Dashboard.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Painel de controle</value>
+  </data>
+  <data name="//Host//DeviceDetectionManagement.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Gerenciamento de deteção de dispositivos</value>
+  </data>
+  <data name="//Host//Extensions.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Extensões</value>
+  </data>
+  <data name="//Host//FileManagement.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Gerenciamento de arquivos</value>
+  </data>
+  <data name="//Host//HostSettings.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Configurações de host</value>
+  </data>
+  <data name="//Host//HTMLEditorManager.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Gerenciador de Editor de HTML</value>
+  </data>
+  <data name="//Host//Languages.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Idiomas</value>
+  </data>
+  <data name="//Host//Lists.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Listas de</value>
+  </data>
+  <data name="//Host//ModuleDefinitions.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Definições de módulo</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Características profissionais</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//ActivateyourLicense.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Ativar sua licença</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//AdvancedURLManagement.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Gestão avançada de URL</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//ApplicationIntegrity.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Integridade do aplicativo</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//HealthMonitoring.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Monitoramento de integridade</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//KnowledgeBase.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Base de conhecimento</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//LicenseManagement.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Gerenciamento de licenças</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//ManageWebServers.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Gerenciar servidores Web</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//MySupportTickets.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Meus Tickets de suporte</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SearchCrawlerAdmin.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Pesquisa sobre esteiras Admin</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SecurityCenter.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Central de segurança</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SharePointConnector.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Conector do SharePoint</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SiteGroups.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Grupos de sites</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SoftwareandDocumentation.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Software e documentação</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SpecialOffers.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Ofertas especiais</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//TechnicalSupport.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Suporte técnico</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//UserSwitcher.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Alternador de usuário</value>
+  </data>
+  <data name="//Host//Schedule.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Agenda</value>
+  </data>
+  <data name="//Host//SearchAdmin.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Pesquisa de Admin</value>
+  </data>
+  <data name="//Host//SiteManagement.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Gerenciamento de site</value>
+  </data>
+  <data name="//Host//Skins.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Temas</value>
+  </data>
+  <data name="//Host//SQL.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">SQL</value>
+  </data>
+  <data name="//Host//SuperuserAccounts.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Contas de superusuário</value>
+  </data>
+  <data name="//Host//Vendors.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Fornecedores</value>
+  </data>
+  <data name="//Modules.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Módulos</value>
+  </data>
+  <data name="//NewsPromotions.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Notícias e promoções</value>
+  </data>
+  <data name="//OurProducts.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Nossos produtos</value>
+  </data>
+  <data name="//Pages.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Páginas</value>
+  </data>
+  <data name="//SearchResults.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Resultados da pesquisa</value>
+  </data>
+  <data name="//Tools.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Ferramentas</value>
+  </data>
+  <data name="//UserProfile.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Perfil de usuário</value>
+  </data>
+  <data name="403_3.Error" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">&lt;div style="height: 100%; width: 90%;"&gt;
+        &lt;h3&gt;DotNetNuke Configuration Error&lt;/h3&gt;
+        &lt;p&gt;{0}&lt;/p&gt;
+        &lt;p&gt;Your DotNetNuke installation appears to have a security settings problem (most likely
+        permissions). DotNetNuke has extensive file upload capabilities for content, modules,
+        and themes. These features require custom security settings so that the application
+        is able to create and remove files in your website.&lt;/p&gt;
+        &lt;p&gt;Using Windows Explorer, browse to the root folder of the website ( C:\DotNetNuke
+        by default ). Right-click the folder and select Sharing and Security from the popup
+        menu ( please note that if you are using Windows XP you may need to &lt;a href="http://support.microsoft.com/default.aspx/kb/307874"
+            target="_blank"&gt;Disable Simple File Sharing&lt;/a&gt; before these options are displayed
+        ). Select the Security tab. Add the appropriate User Account and set the Permissions.&lt;/p&gt;
+		&lt;ul style="text-align: left; list-style-type: none; list-style-position: outside;"&gt;
+            &lt;li&gt;&lt;strong&gt;If using Windows 2000 - IIS5&lt;/strong&gt;
+		    &lt;br/&gt;
+		    &lt;ol style="list-style-type: circle;"&gt;
+		      &lt;li&gt;the [SERVER]\ASPNET User Account must have Read, Write, and Change Control of the virtual root of your website.&lt;/li&gt;
+		    &lt;/ol&gt;
+		    &lt;br/&gt;
+		  &lt;/li&gt;
+            &lt;li&gt;&lt;strong&gt;If using Windows 2003 - IIS6 or Vista/Windows 2008 - IIS7&lt;/strong&gt;
+		    &lt;br/&gt;
+		    &lt;ol style="list-style-type: circle;"&gt;
+		      &lt;li&gt;the NT AUTHORITY\NETWORK SERVICE User Account must have Read, Write, and Change Control of the virtual root of your website.&lt;/li&gt;
+		    &lt;/ol&gt;
+		  &lt;/li&gt;
+		&lt;/ul&gt;
+        &lt;p&gt;&lt;img alt="Image showing the security settings for the root folder of the website must be set to Read, Write and Change Control for the ASPNET or NT AUTHORITY/NETWORK SERVICE accounts." src="images/403-3.gif"&gt;&lt;/p&gt;
+  &lt;/div&gt;</value>
+  </data>
+  <data name="404.Error" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">&amp;lt;div style="height: 100%; width: 90%;"&amp;gt;
+        &amp;lt;p style="color:red; font-weight:bold;"&amp;gt;Domínio nome {0} não existe no banco de dados&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;DotNetNuke suporta vários sites a partir de um único banco de dados/codebase. Ele realiza
+    isso, convertendo a URL do navegador do cliente solicitar um PortalID válido em
+        a tabela de banco de dados de portais. As etapas a seguir descrevem o processo:&amp;lt;/p&amp;gt;
+    &amp;lt;ol style="text-align: left; list-style-type: decimal; list-style-position: outside;"&amp;gt;
+        &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Processamento do servidor Web&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;
+            &amp;lt;ul style="list-style-type: disc;"&amp;gt;
+                &amp;lt;li&amp;gt;Quando um servidor web recebe uma solicitação de um navegador do cliente, ele compara o arquivo
+                    extensão de nome do recurso de URL de destino para seus mapeamentos de extensão de aplicativo
+                    definido no IIS.&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;Baseado no jogo correspondente, IIS então envia a solicitação para o arquivo executável definido
+                    Caminho (aspnet_asapi.dll no caso de solicitações ASP.NET).&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;O motor do Aspnet_isapi. dll processa a solicitação em uma série ordenada de eventos
+                    começando com Application_BeginRequest.&amp;lt;/li&amp;gt;
+            &amp;lt;/ul&amp;gt;
+        &amp;lt;/li&amp;gt;
+        &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;HttpModule.URLRewrite OnBeginRequest (UrlRewriteModule.vb)&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;
+            &amp;lt;ul style="list-style-type: disc;"&amp;gt;
+                &amp;lt;li&amp;gt;O URL de solicitação é analisada com base no caractere "/"&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;Um nome de domínio é construído usando cada um dos segmentos relevantes de URL analisados.&amp;lt;br&amp;gt;
+                    &amp;lt;br&amp;gt;Exemplos:&amp;lt;br&amp;gt;
+                    &amp;lt;br&amp;gt;URL: http://www.domain.com/default.aspx = nome de domínio: www.domain.com&amp;lt;br&amp;gt;URL: http://209.75.24.131/default.aspx = nome de domínio: 209.75.24.131&amp;lt;br&amp;gt;URL: http://localhost/DotNetNuke/default.aspx = Domain Name: localhost/DotNetNuke&amp;lt;br&amp;gt;URL: http://www.domain.com/virtualdirectory/default.aspx = nome de domínio: www.domain.com/virtualdirectory&amp;lt;br&amp;gt;URL: http://www.domain.com/directory/default.aspx = nome de domínio: www.domain.com/directory&amp;lt;br&amp;gt;
+                    &amp;lt;br&amp;gt;
+                &amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;Usando o nome de domínio, o aplicativo consulta o banco de dados (tabela de portais - PortalAlias
+                    campo) para localizar um registro correspondente.&amp;lt;br&amp;gt;
+                    &amp;lt;br&amp;gt;Nota: Se há várias URLs que correspondem ao mesmo site então o alias do site
+                    campo deve conter cada nome de domínio válido em uma lista separada por vírgulas.&amp;lt;br&amp;gt;
+                    &amp;lt;br&amp;gt;Exemplo:&amp;lt;br&amp;gt;
+                    &amp;lt;br&amp;gt;URL: http://localhost/DotNetNuke/default.aspx&amp;lt;br&amp;gt;URL: http://MACHINENAME/DotNetNuke/default.aspx&amp;lt;br&amp;gt;URL: http://209.32.134.65/DotNetNuke/default.aspx&amp;lt;br&amp;gt;PortalAlias: localhost/DotNetNuke,MACHINENAME/DotNetNuke,209.32.134.65/DotNetNuke&amp;lt;br&amp;gt;
+                    &amp;lt;br&amp;gt;Nota: Se você estiver instalando o aplicativo em um servidor remoto você deve modificar o
+                    PortalAlias valor do campo para o registro padrão da tabela de portais de acordo com
+                    as regras definidas acima.&amp;lt;/li&amp;gt;
+            &amp;lt;/ul&amp;gt;
+        &amp;lt;/li&amp;gt;
+    &amp;lt;/ol&amp;gt;
+&amp;lt;/div&amp;gt;</value>
+  </data>
+  <data name="500.Error" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">{0}</value>
+  </data>
+  <data name="503.Error" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">{0} - 503 Serviço indisponível</value>
+  </data>
+  <data name="ActivatingLicense.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Ativação de licença</value>
+  </data>
+  <data name="AddFollowerRequestBody.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Você agora está sendo seguido por {0}</value>
+  </data>
+  <data name="AddFollowerRequestSubject.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">{0} está agora a seguir-te</value>
+  </data>
+  <data name="AddFriendRequestBody.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">{0} quer ser seu amigo</value>
+  </data>
+  <data name="AddFriendRequestSubject.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">{0} quer ser amigos</value>
+  </data>
+  <data name="ApplicationUpgrades.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Atualizações do aplicativo</value>
+  </data>
+  <data name="AspNetHostingPermission.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Esta extensão requer confiança total.</value>
+  </data>
+  <data name="Authentication.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Autenticação</value>
+  </data>
+  <data name="BannerType.Banner.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Bandeira</value>
+  </data>
+  <data name="BannerType.Block.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Bloco</value>
+  </data>
+  <data name="BannerType.Button.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Botão</value>
+  </data>
+  <data name="BannerType.MicroButton.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">MicroButton</value>
+  </data>
+  <data name="BannerType.Script.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Roteiro</value>
+  </data>
+  <data name="BannerType.Skyscraper.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Arranha-céu</value>
+  </data>
+  <data name="BannerType.Text.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Texto</value>
+  </data>
+  <data name="Browse Folder.Permission" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Procurar arquivos em pasta</value>
+  </data>
+  <data name="Can Deploy.Permission" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Implantar o módulo</value>
+  </data>
+  <data name="ClearCache.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Atualização</value>
+  </data>
+  <data name="CustomUrlPathCleaned.Error" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">O URL da página inserido contém caracteres que não podem ser usados em uma URL ou são caracteres ilegais para uma URL.   Esses personagens foram removidos.  Clique no botão 'Update' novamente para aceitar a URL modificada.&lt;br&gt;[Nota: A lista de caracteres ilegais é o seguinte: &lt;&gt;\?&amp;=+| % #]</value>
+  </data>
+  <data name="DeleteModule.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Excluir</value>
+  </data>
+  <data name="DeLocalize.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">DeLocalize</value>
+  </data>
+  <data name="DraggingHintText.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Mova o mouse sobre uma zona de salto.</value>
+  </data>
+  <data name="DragModuleHint.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Arraste este módulo para um novo local</value>
+  </data>
+  <data name="DropModuleHint.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Solte o botão do mouse para soltar o módulo aqui.</value>
+  </data>
+  <data name="DropModuleTarget.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Soltar o módulo aqui</value>
+  </data>
+  <data name="Edit Tab.Permission" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Editar página</value>
+  </data>
+  <data name="Edit.Permission" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Editar o módulo</value>
+  </data>
+  <data name="EMAIL_AFFILIATE_NOTIFICATION_BODY.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Querida [Custom: 0],
+
+Sua conta [Portal: PortalName] programa de afiliados foi criada.
+
+Para começar a ganhar recompensas, por favor, use a seguinte URL link para nosso site:
+
+[Custom: 1]
+
+Obrigado
+[Portal: PortalName]
+
+</value>
+  </data>
+  <data name="EMAIL_AFFILIATE_NOTIFICATION_SUBJECT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">[Portal: PortalName] Notificação de afiliado</value>
+  </data>
+  <data name="EMAIL_BANNER_NOTIFICATION_BODY.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Bandeira: [Custom: 0]
+Descrição: [Custom: 1]
+Imagem: [Custom: 2]
+CPM/custo: [Personalizado: 3]
+Impressões: [Personalizado: 4]
+StartDate: [Custom: 5]
+EndDate: [Custom: 6]
+Exibições: [Custom: 7]
+Click through: [Custom: 8]</value>
+  </data>
+  <data name="EMAIL_BANNER_NOTIFICATION_SUBJECT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">[Custom: 0]</value>
+  </data>
+  <data name="EMAIL_BODY_FORMAT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Assunto: {0}
+    
+{1}
+
+Por favor, não responda a este e-mail.</value>
+  </data>
+  <data name="EMAIL_BulkMailConf_Html_Body.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">&lt;h1&gt;Bulkmail Report&lt;/h1&gt;
+    Operation started at: [Custom:0]&lt;br /&gt;
+    EmailRecipients: [Custom:1]&lt;br /&gt;
+    EmailMessages: [Custom:2]&lt;br /&gt;
+    Operation completed: [Custom:3]&lt;br /&gt;
+    [Custom:4|Number of errors:{0}&lt;br /&gt;]
+    &lt;br /&gt;
+    Status Report: &lt;br /&gt;
+           &lt;pre&gt;[Custom:5]&lt;/pre&gt;
+    [Custom:6|&lt;hr /&gt;&lt;strong&gt;Recipients:&lt;/strong&gt;&lt;br /&gt;{0}]</value>
+  </data>
+  <data name="EMAIL_BulkMailConf_Subject.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Relatório de E-mail em massa para '{0}'.</value>
+  </data>
+  <data name="EMAIL_BulkMailConf_Text_Body.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Operação começou em: [Custom: 0]
+EmailRecipients: [Custom: 1]
+EmailMessages: [Custom: 2]
+Operação concluída: [Personalizado: 3]
+
+[Custom: 4 | Número de erros: {0}
+] Relatório da situação:
+[Custom: 5]
+--------------------------------
+[Custom: 6 | Destinatários:
+===========
+{0}]
+    </value>
+  </data>
+  <data name="EMAIL_BulkMailStart_Body.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">{1} usuário enviado Bulkmail '{0}' para destinatários {2}. Por favor revise o relatório de sendout para transmissões falhadas e retorna a caixa de entrada de remetentes.</value>
+  </data>
+  <data name="EMAIL_BulkMailStart_Subject.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Bulkmail '{0}' enviada</value>
+  </data>
+  <data name="EMAIL_MESSAGING_DISPATCH_BODY.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+&lt;head&gt;
+    &lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /&gt;
+    &lt;style type="text/css"&gt;
+            /* Reset Styles */
+        html, body{height:100%;width:100%;}
+        body{
+            margin:0; padding:0;
+            font-family:sans-serif;
+            font-size:0.83em;
+            color:#333;
+        }
+        img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+        table td{border-collapse:collapse;}
+        p{margin: 0 0 1.6em 0;}
+        a{color:#417CD3;}
+        #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+        body{ background-color:#fafafa; }        
+
+        #templateContainer{
+            border: 1px solid #eeeeee;
+            box-shadow: 0px 0px 3px 0px #eee;
+        }
+
+            /* Pre Header Styles */
+        .preheaderContent{
+            padding:15px 0 5px 0;
+            font-size:0.9em;
+            color:#999;
+        }
+        .headerContent {background-color:#bbb;}
+        .headerContent a{display:block;}
+        .headerContent img{ margin-bottom:0;}
+
+            /* Sub Header Styles */
+        #templateSubHeader{ color:#ffffff; }
+        #templateSubHeader td{ padding:5px 20px; }
+
+            /* Template Footer Styles */
+        .footerContent table td{
+            padding-top:20px;
+            border-top:1px solid #ddd;
+            font-size:0.8em;
+        }
+
+            /* Body Template Footer Styles */
+        #bodyTemplateFooter{
+            padding:15px 0 5px 0;
+            font-size:0.9em;
+            color:#999;
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+
+&lt;body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0"&gt;
+&lt;table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%" id="backgroundTable"&gt;
+    &lt;tr&gt;
+        &lt;td align="center" valign="top"&gt;
+            &lt;!-- // Begin Template Preheader \\ --&gt;
+            &lt;table border="0" cellpadding="0" cellspacing="0" id="templatePreheader" width="600"&gt;
+                &lt;tr align="right"&gt;
+                    &lt;td valign="top" class="preheaderContent" style="border-top:5px solid #417CD3;"&gt;
+
+                        &lt;!-- // Begin Module: Standard Preheader \ --&gt;
+                        &lt;table border="0" cellpadding="0" cellspacing="0" &gt;
+                            &lt;tr&gt;
+                                &lt;td align="right"&gt;
+                                    &lt;p&gt;Problem viewing email? &lt;a href="[NOTIFICATIONURL]"&gt;&lt;span&gt;Click here to view online.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                        &lt;!-- // End Module: Standard Preheader \ --&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+            &lt;!-- // End Template Preheader \\ --&gt;
+            &lt;!-- // Begin Template body \\ --&gt;
+            &lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer" style="border:1px solid #eeeeee; " &gt;
+                &lt;tr &gt;
+                    &lt;td align="center" valign="top"&gt;
+                        &lt;!-- // Begin Template Header \\ --&gt;
+                        &lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateHeader"&gt;
+                            &lt;tr&gt;
+                                &lt;td class="headerContent"&gt;
+                                    &lt;a href="[SITEURL]"&gt;
+                                        &lt;!--&lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" /&gt;--&gt;
+                                        &lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" width="200" /&gt;
+                                    &lt;/a&gt;
+
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                        &lt;!-- // End Template Header \\ --&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr &gt;
+                    &lt;td align="center" valign="top"&gt;
+                        &lt;!-- // Begin Template Sub Header \\ --&gt;
+                        &lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateSubHeader"&gt;
+                            &lt;tr&gt;
+                                &lt;td class="subHeaderContent" bgcolor="#417CD3" width="66%" align="left"&gt;
+                                    &lt;h2 style="color:#fff; font-weight:100; font-size:24px;"&gt;Notifications&lt;/h2&gt;
+                                &lt;/td&gt;&lt;!--close subHeaderContent--&gt;
+                                &lt;td width="33%" bgcolor="#417CD3" align="right"&gt;
+                                    &lt;p style="color:#fff;"&gt;&lt;/p&gt;
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                        &lt;!-- // End Template Sub Header \\ --&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td align="center" valign="top" bgcolor="#ffffff"&gt;
+                        &lt;!-- // Begin Template Body \\ --&gt;
+                        &lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateBody"&gt;
+                            &lt;tr&gt;
+                                &lt;td valign="top" class="bodyContent"&gt;
+                                    &lt;!-- // Begin Module: Standard Content \\ --&gt;
+                                    &lt;table border="0" cellpadding="30" cellspacing="0" width="100%"&gt;
+                                        &lt;tr&gt;
+                                            &lt;td valign="top"&gt;
+                                                [MESSAGEBODY]
+                                            &lt;/td&gt;
+                                        &lt;/tr&gt;
+                                    &lt;/table&gt;
+                                    &lt;!-- // End Module: Standard Content \\ --&gt;
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                        &lt;!-- // End Template Body \\ --&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td align="center" valign="top"&gt;
+                        &lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateFooter"&gt;
+                            &lt;tr&gt;
+                                &lt;td valign="top" class="footerContent"&gt;
+                                    &lt;table border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+                                        &lt;tr&gt;
+                                            &lt;td align="center"&gt;
+                                                &lt;a href="[UNSUBSCRIBEURL]" &gt; Manage your Subscriptions&lt;/a&gt; &amp;nbsp; |  &amp;nbsp;&lt;a href="[NOTIFICATIONURL]" &gt; View online&lt;/a&gt;
+                                            &lt;/td&gt;
+                                        &lt;/tr&gt;
+                                    &lt;/table&gt;
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;&lt;!-- // End Template Body \\ --&gt;
+            &lt;!-- // Begin Template footer \\ --&gt;
+            &lt;table border="0" cellpadding="0" cellspacing="0" id="bodyTemplateFooter" width="600"&gt;
+                &lt;tr&gt;
+                    &lt;td valign="top" class="bodyFooterContent"&gt;
+
+                        &lt;!-- // Begin Module: Standard Preheader \ --&gt;
+                        &lt;table border="0" cellpadding="0" cellspacing="0" align="center" &gt;
+
+                            &lt;tr&gt;
+                                &lt;td align="center"&gt;
+                                    &lt;p&gt;Copyright 2013 &lt;a href="[SITEURL]"&gt;[PORTALNAME]&lt;/a&gt; All rights reserved.&lt;/p&gt;
+                                    &lt;p&gt;If you wish to no longer receive emails in the future, please &lt;a href="[UNSUBSCRIBEURL]"&gt;unsubscribe&lt;/a&gt; here.&lt;/p&gt;
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                        &lt;!-- // End Module: Standard Preheader \ --&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+            &lt;!-- // End Template footer \\ --&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;&lt;!-- wrapper table --&gt;
+&lt;/body&gt;
+&lt;/html&gt;</value>
+  </data>
+  <data name="EMAIL_MESSAGING_DISPATCH_ITEM.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">&lt;div style="width:100%;"&gt;&lt;h5&gt;[TITLE]&lt;/h5&gt;&lt;table width="600" border="0" cellpadding="0" cellspacing="0" class="contenttable" style="background:#fafafa;"&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table width="80" border="0" cellspacing="0" cellpadding="8" align="left"&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;&lt;a href="PROFILEURL"&gt;&lt;img src="[PROFILEPICURL]" /&gt;&lt;/a&gt;&lt;br/&gt;[DISPLAYNAME]&lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+            &lt;table width="350" border="0" cellspacing="0" cellpadding="8" align="left"&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;[CONTENT][FRIENDREQUESTACTIONS][FOLLOWREQUESTACTIONS]&lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;&lt;/div&gt;</value>
+  </data>
+  <data name="EMAIL_PASSWORD_REMINDER_BODY.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Querida [usuário: DisplayName],
+
+Você solicitou uma senha Redefinir Token do [Portal: PortalName].
+
+Faça o login usando as seguintes informações:
+
+Endereço do site: [Portal: URL]
+Nome de usuário: [Usuário: nome de usuário]
+
+Link para redefinir a senha: http://[Portal:URL]/default.aspx?ctl=PasswordReset&amp;amp;resetToken=[Membership:PasswordResetToken]
+
+Atenciosamente,
+[Portal: PortalName]
+
+* Nota: Se você não pediu uma senha Redefinir Token, por favor desconsidere esta mensagem.
+</value>
+  </data>
+  <data name="EMAIL_PASSWORD_REMINDER_SUBJECT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">[Portal: PortalName] Lembrete de senha</value>
+  </data>
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_BODY.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Querida [usuário: DisplayName],
+
+Você solicitou uma senha Redefinir Token do [Portal: PortalName], mas sua conta está pendente de aprovação.
+
+Senha pode ser redefinida Depois conta é aprovada.
+
+Atenciosamente,
+[Portal: PortalName]
+
+* Nota: Se você não pediu uma senha Redefinir Token, por favor desconsidere esta mensagem.
+    </value>
+  </data>
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_SUBJECT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">[Portal: PortalName] Lembrete de senha</value>
+  </data>
+  <data name="EMAIL_PASSWORD_UPDATED_BODY.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Querida [usuário: DisplayName],
+
+Sua senha no [Portal: PortalName] foi alterada.
+
+Entre em contato com o administrador do site para o seguinte endereço de e-mail - [Portal: Email]
+
+Atenciosamente,
+[Portal: PortalName]</value>
+  </data>
+  <data name="EMAIL_PASSWORD_UPDATED_SUBJECT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">[Portal: PortalName] Senha atualizada</value>
+  </data>
+  <data name="EMAIL_PORTAL_SIGNUP_BODY.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Querida [usuário: DisplayName],
+
+Seu site foi criado. Por favor, leia as informações a seguir com atenção e certifique-se de salvar esta mensagem em um local seguro para referência futura.
+
+Endereço do site: [Portal: URL]
+Nome de usuário: [Usuário: nome de usuário]
+Código de verificação: [Usuário: VerificationCode]
+
+Por favor, aproveite a oportunidade para visitar o site para rever o seu conteúdo e tirar proveito de suas características.
+
+Obrigado, agradecemos o seu apoio...
+
+[Host: HostTitle]
+
+</value>
+  </data>
+  <data name="EMAIL_PORTAL_SIGNUP_SUBJECT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">[Host: HostTitle] Inscrição no portal</value>
+  </data>
+  <data name="EMAIL_PROFILE_UPDATED_BODY.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Querida [usuário: DisplayName],
+
+Seu perfil no [Portal: PortalName] foi atualizado com sucesso.
+
+Atenciosamente,
+[Portal: PortalName]
+
+</value>
+  </data>
+  <data name="EMAIL_PROFILE_UPDATED_SUBJECT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">[Portal: PortalName] Aviso de atualização de perfil</value>
+  </data>
+  <data name="EMAIL_ROLE_ASSIGNMENT_BODY.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Querida [usuário: DisplayName],
+
+Sua conta de usuário no [Portal: PortalName] foi recentemente atualizada para incluir o acesso à função de segurança seguintes:
+
+Papel: [Custom: 0]
+Descrição: [Custom: 1]
+Data efetiva: [Custom: 2]
+Data de validade: [Personalizado: 3]
+
+Obrigado, agradecemos o seu apoio...
+[Portal: PortalName]
+</value>
+  </data>
+  <data name="EMAIL_ROLE_ASSIGNMENT_SUBJECT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">[Portal: PortalName] Atualização de conta de usuário</value>
+  </data>
+  <data name="EMAIL_ROLE_UNASSIGNMENT_BODY.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Querida [usuário: DisplayName],
+
+Sua conta de usuário no [Portal: PortalName] foi recentemente atualizada para restringir o acesso à função de segurança seguintes:
+
+Papel: [Custom: 0]
+Descrição: [Custom: 1]
+
+Obrigado, agradecemos o seu apoio...
+[Portal: PortalName]
+</value>
+  </data>
+  <data name="EMAIL_ROLE_UNASSIGNMENT_SUBJECT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">[Portal: PortalName] Atualização de conta de usuário</value>
+  </data>
+  <data name="EMAIL_ROLE_UPDATE_BODY.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Querida [usuário: DisplayName],
+
+Sua conta de usuário no [Portal: PortalName] foi recentemente atualizada para modificar o acesso à função de segurança seguintes:
+
+Papel: [Custom: 0]
+Descrição: [Custom: 1]
+Data efetiva: [Custom: 2]
+Data de validade: [Personalizado: 3]
+
+Obrigado, agradecemos o seu apoio...
+[Portal: PortalName]
+</value>
+  </data>
+  <data name="EMAIL_ROLE_UPDATE_SUBJECT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">[Portal: PortalName] Atualização de conta de usuário</value>
+  </data>
+  <data name="EMAIL_SMTP_TEST_SUBJECT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">[Host: HostTitle] Teste de configuração do SMTP</value>
+  </data>
+  <data name="EMAIL_SOCIAL_FOLLOWREQUESTACTIONS.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">&lt;p&gt;&lt;a href="{0}"&gt;Follow back&lt;/a&gt; | &lt;a href="{1}"&gt;View Profile&lt;/a&gt;&lt;/p&gt;</value>
+  </data>
+  <data name="EMAIL_SOCIAL_FRIENDREQUESTACTIONS.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">&lt;p&gt;&lt;a href="{0}"&gt;Accept&lt;/a&gt; | &lt;a href="{1}"&gt;View Profile&lt;/a&gt;&lt;/p&gt;</value>
+  </data>
+  <data name="EMAIL_SUBJECT_FORMAT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Nova mensagem de {0}</value>
+  </data>
+  <data name="EMAIL_USER_LOCKOUT_BODY.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Foi feita uma tentativa para acessar um trancado para fora de conta de usuário (username: [Custom: 0]) em [Data: corrente]. Você pode querer investigar o assunto...
+
+Obrigado
+[Portal: PortalName]
+</value>
+  </data>
+  <data name="EMAIL_USER_LOCKOUT_SUBJECT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">[Portal: PortalName] Alerta de bloqueio de conta de usuário</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_BODY.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Data: [Data: atual]
+Nome para exibição: [Usuário: DisplayName]
+E-mail: [Usuário: Email]
+</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_SUBJECT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">[Portal: PortalName] Novo registo de utilizador</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_PRIVATE_BODY.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Querida [usuário: DisplayName],
+
+Obrigado por se registar no [Portal: PortalName]. Por favor, leia as informações a seguir com atenção e certifique-se de salvar esta mensagem em um local seguro para referência futura.
+
+Endereço do site: [Portal: URL]
+Nome de usuário: [Usuário: nome de usuário]
+
+Detalhes da sua conta serão analisados pelo administrador do site e você receberá uma notificação após a ativação da conta.
+
+Obrigado, agradecemos o seu apoio...
+
+[Portal: PortalName]
+
+</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_PRIVATE_SUBJECT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">[Portal: PortalName] Novo registo de utilizador</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_PUBLIC_BODY.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Querida [usuário: DisplayName],
+
+É um prazer informar que você tem foi adicionado como um usuário registrado para [Portal: PortalName]. Por favor, leia as informações a seguir com atenção e certifique-se de salvar esta mensagem em um local seguro para referência futura.
+
+Endereço do site de portal: [Portal: URL]
+Nome de usuário: [Usuário: nome de usuário]
+
+Se você não sabe, ou não me lembro, sua senha, por favor, vá para http://[Portal:URL]/default.aspx?ctl=PasswordReset&amp;amp;resetToken=[Membership:PasswordResetToken] para redefini-la.
+Obrigado, agradecemos o seu apoio...
+
+[Portal: PortalName]
+
+</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_PUBLIC_SUBJECT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">[Portal: PortalName] Novo registo de utilizador</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_VERIFIED_BODY.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Querida [usuário: DisplayName],
+
+É um prazer informar que você tem foi adicionado como um usuário registrado para [Portal: PortalName]. Por favor, leia as informações a seguir com atenção e certifique-se de salvar esta mensagem em um local seguro para referência futura.
+
+Endereço do site de portal: [Portal: URL]
+Nome de usuário: [Usuário: nome de usuário]
+
+Você pode usar o link a seguir para completar seu cadastro verificado:
+
+http://[portal:URL]/default.aspx?CTL=login&amp;amp;username=[Custom:0]&amp;amp;VerificationCode=[Custom:1]
+
+Obrigado, agradecemos o seu apoio...
+
+[Portal: PortalName]
+
+</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_VERIFIED_SUBJECT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">[Portal: PortalName] Novo registo de utilizador</value>
+  </data>
+  <data name="EMAIL_USER_UNREGISTER_BODY.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Data: [Data: atual]
+Nome: [Perfil: FirstName]
+Sobrenome: [Perfil: LastName]
+Unidade: [Perfil: unidade]
+Rua: [Perfil: Street]
+Cidade: [City: perfil]
+Região: [Perfil: região]
+País: [Perfil: país]
+Código postal: [Perfil: CEP]
+Telefone: [Telefone: perfil]
+E-mail: [Usuário: Email]
+		</value>
+  </data>
+  <data name="EMAIL_USER_UNREGISTER_SUBJECT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">[Portal: PortalName] Cancelar o registro de usuário</value>
+  </data>
+  <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_BODY.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Querida [usuário: DisplayName],
+
+Você mudou sua senha no [Portal: PortalName].
+
+Faça o login usando as seguintes informações:
+
+Endereço do site: [Portal: URL]
+Nome de usuário: [Usuário: nome de usuário]
+
+Atenciosamente,
+[Portal: PortalName]</value>
+  </data>
+  <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_SUBJECT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">[Portal: PortalName] Senha atualizada</value>
+  </data>
+  <data name="EMAIL_VENDOR_REGISTRATION_ADMINISTRATOR_BODY.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Data: [Custom: 0]
+Nome do fornecedor: [Custom: 1]
+Nome: [Custom: 2]
+Sobrenome: [Personalizado: 3]
+Unidade: [Personalizado: 4]
+Rua: [Custom: 5]
+Cidade: [Custom: 6]
+Região: [Custom: 7]
+País: [Custom: 8]
+Código postal: [Custom: 9]
+Telefone: [Personalizado: 10]
+Fax: [Custom: 11]
+Celular: [Custom: 12]
+E-mail: [Custom: 13]
+Site: [Custom: 14]</value>
+  </data>
+  <data name="EMAIL_VENDOR_REGISTRATION_ADMINISTRATOR_SUBJECT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">[Portal: PortalName] Fornecedor de aplicativo</value>
+  </data>
+  <data name="EMAIL_VENDOR_REGISTRATION_BODY.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Querida [Custom: 0] [Custom: 1],
+ 
+ [Custom: 2], foi registrado com sucesso no [Portal: PortalName].
+ 
+ Obrigado
+ 
+ [Portal: PortalName]</value>
+  </data>
+  <data name="EMAIL_VENDOR_REGISTRATION_SUBJECT.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">[Portal: PortalName] Fornecedor de aplicativo</value>
+  </data>
+  <data name="EnglishName.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Nome em inglês</value>
+  </data>
+  <data name="Error.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Ocorreu um erro.</value>
+  </data>
+  <data name="ExecutingScript.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Execução de Script</value>
+  </data>
+  <data name="ExportModule.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Exportar conteúdo</value>
+  </data>
+  <data name="GeneralUpgrades.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Desempenho geral de Upgrades</value>
+  </data>
+  <data name="ImportModule.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Importar conteúdo</value>
+  </data>
+  <data name="License.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">&lt;p&gt;DotNetNuke&amp;reg; - http://www.dotnetnuke.com&lt;br /&gt;
+Copyright (c) 2002-2014&lt;br/&gt;
+    by DotNetNuke Corporation&lt;/p&gt;
+    &lt;p&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated 
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation 
+the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and 
+    to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;/p&gt;
+    &lt;p&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions 
+    of the Software.&lt;/p&gt;
+    &lt;p&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
+TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL 
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF 
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+    DEALINGS IN THE SOFTWARE.&lt;/p&gt;</value>
+  </data>
+  <data name="Localize.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Localizar</value>
+  </data>
+  <data name="LogClicks.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Login do usuário, a data e a hora por cada clique</value>
+  </data>
+  <data name="LogEnd.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Final </value>
+  </data>
+  <data name="LogStart.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Início </value>
+  </data>
+  <data name="Manage.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Gerenciar</value>
+  </data>
+  <data name="MESSAGE_PORTAL_PRIVACY.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">&lt;div align="left"&gt;
+        &lt;p&gt;[Portal:PortalName] is committed to protecting your privacy and developing technology
+        that gives you the most powerful and safe online experience. This Statement of Privacy
+        applies to the [Portal:PortalName] site and governs data collection and usage.
+        By using the [Portal:PortalName] site, you consent to the data practices described
+        in this statement.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Collection of your Personal Information&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] collects personally identifiable information, such as your email
+        address, name, home or work address or telephone number. [Portal:PortalName] also
+        collects anonymous demographic information, which is not unique to you, such as
+        your ZIP code, age, gender, preferences, interests and favorites.&lt;/p&gt;
+        &lt;p&gt;There is also information about your computer hardware and software that is automatically
+        collected by [Portal:PortalName]. This information can include: your IP address,
+        browser type, domain names, access times and referring website addresses. This
+        information is used by [Portal:PortalName] for the operation of the service, to
+        maintain quality of the service, and to provide general statistics regarding use
+        of the [Portal:PortalName] site.&lt;/p&gt;
+        &lt;p&gt;Please keep in mind that if you directly disclose personally identifiable information
+        or personally sensitive data through [Portal:PortalName] public message boards,
+        this information may be collected and used by others. Note: [Portal:PortalName]
+        does not read any of your private online communications.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] encourages you to review the privacy statements of Web sites
+        you choose to link to from [Portal:PortalName] so that you can understand how those
+        Web sites collect, use and share your information. [Portal:PortalName] is not responsible
+        for the privacy statements or other content on Web sites outside of the [Portal:PortalName]
+        and [Portal:PortalName] family of Web sites.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Use of your Personal Information&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] collects and uses your personal information to operate the [Portal:PortalName]
+        Web site and deliver the services you have requested. [Portal:PortalName] also uses
+        your personally identifiable information to inform you of other products or services
+        available from [Portal:PortalName] and its affiliates. [Portal:PortalName] may also
+        contact you via surveys to conduct research about your opinion of current services
+        or of potential new services that may be offered.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] does not sell, rent or lease its customer lists to third parties.
+        [Portal:PortalName] may, from time to time, contact you on behalf of external business
+        partners about a particular offering that may be of interest to you. In those cases,
+        your unique personally identifiable information (e-mail, name, address, telephone
+        number) is not transferred to the third party. In addition, [Portal:PortalName]
+        may share data with trusted partners to help us perform statistical analysis, send
+        you email or postal mail, provide customer support, or arrange for deliveries. All
+        such third parties are prohibited from using your personal information except to
+        provide these services to [Portal:PortalName], and they are required to maintain
+        the confidentiality of your information.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] does not use or disclose sensitive personal information, such
+        as race, religion, or political affiliations, without your explicit consent.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] keeps track of the Web sites and pages our customers visit within
+        [Portal:PortalName], in order to determine what [Portal:PortalName] services are
+        the most popular. This data is used to deliver customized content and advertising
+        within [Portal:PortalName] to customers whose behavior indicates that they are interested
+        in a particular subject area.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] Web sites will disclose your personal information, without notice,
+        only if required to do so by law or in the good faith belief that such action is
+        necessary to: (a) conform to the edicts of the law or comply with legal process
+        served on [Portal:PortalName] or the site; (b) protect and defend the rights or
+        property of [Portal:PortalName]; and, (c) act under exigent circumstances to protect
+        the personal safety of users of [Portal:PortalName], or the public.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Use of Cookies&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;The [Portal:PortalName] Web site use "cookies" to help you personalize your online
+        experience. A cookie is a text file that is placed on your hard disk by a Web page
+        server. Cookies cannot be used to run programs or deliver viruses to your computer.
+        Cookies are uniquely assigned to you, and can only be read by a web server in the
+        domain that issued the cookie to you.&lt;/p&gt;
+        &lt;p&gt;One of the primary purposes of cookies is to provide a convenience feature to save
+        you time. The purpose of a cookie is to tell the Web server that you have returned
+        to a specific page. For example, if you personalize [Portal:PortalName] pages, or
+        register with [Portal:PortalName] site or services, a cookie helps [Portal:PortalName]
+        to recall your specific information on subsequent visits. This simplifies the process
+        of recording your personal information, such as billing addresses, shipping addresses,
+        and so on. When you return to the same [Portal:PortalName] Web site, the information
+        you previously provided can be retrieved, so you can easily use the [Portal:PortalName]
+        features that you customized.&lt;/p&gt;
+        &lt;p&gt;You have the ability to accept or decline cookies. Most Web browsers automatically
+        accept cookies, but you can usually modify your browser setting to decline cookies
+        if you prefer. If you choose to decline cookies, you may not be able to fully experience
+        the interactive features of the [Portal:PortalName] services or Web sites you visit.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Security of your Personal Information&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] secures your personal information from unauthorized access,
+        use or disclosure. [Portal:PortalName] secures the personally identifiable information
+        you provide on computer servers in a controlled, secure environment, protected from
+        unauthorized access, use or disclosure. When personal information (such as a credit
+        card number) is transmitted to other Web sites, it is protected through the use
+        of encryption, such as the Secure Socket Layer (SSL) protocol.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Changes to this Statement&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] will occasionally update this Statement of Privacy to reflect
+company and customer feedback. [Portal:PortalName] encourages you to periodically 
+        review this Statement to be informed of how [Portal:PortalName] is protecting your
+        information.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Contact Information&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] welcomes your comments regarding this Statement of Privacy.
+        If you believe that [Portal:PortalName] has not adhered to this Statement, please
+        contact [Portal:PortalName] at &lt;a href="mailto:[Portal:Email]"&gt;[Portal:Email]&lt;/a&gt;.
+        We will use commercially reasonable efforts to promptly determine and remedy the
+        problem.&lt;/p&gt;
+    &lt;/div&gt;</value>
+  </data>
+  <data name="MESSAGE_RETRIEVEPASSWORD_INSTRUCTIONS.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Para recuperar sua senha, você precisará fornecer o seu nome de usuário e o
+			responder a pergunta de senha.		
+		</value>
+  </data>
+  <data name="MESSAGE_USERNAME_CHANGED_INSTRUCTIONS.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Por favor verifique se sua mudança de endereço de email por re-inserir sua senha.</value>
+  </data>
+  <data name="ModuleGenericActions.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Admin</value>
+  </data>
+  <data name="ModuleHelp.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Ajuda</value>
+  </data>
+  <data name="ModulePermissions.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Permissões</value>
+  </data>
+  <data name="ModuleSettings.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Configurações</value>
+  </data>
+  <data name="ModuleSpecificActions.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Editar</value>
+  </data>
+  <data name="MoveBottom.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Parte inferior</value>
+  </data>
+  <data name="MoveDown.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Para baixo</value>
+  </data>
+  <data name="MovePane.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Para</value>
+  </data>
+  <data name="MoveRoot.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Mover-se</value>
+  </data>
+  <data name="MoveTop.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Início</value>
+  </data>
+  <data name="MoveToPane.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Para {0}</value>
+  </data>
+  <data name="MoveUp.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Acima</value>
+  </data>
+  <data name="NativeName.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Nome nativo</value>
+  </data>
+  <data name="NeutralCulture.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Cultura neutra</value>
+  </data>
+  <data name="NoErrorsSending.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Nenhum erro ocorreu durante o envio.</value>
+  </data>
+  <data name="NoLoginControl.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Você foi redirecionado para esta página de Login padrão porque a página de logon definida para este site não contém um módulo DotNetNuke conta Login válido, ou as permissões não foram definidas corretamente.</value>
+  </data>
+  <data name="NoSitesForThisInstallation.Error" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Não há sites existem atualmente para esta instalação.</value>
+  </data>
+  <data name="OnlineHelp.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Ajuda on-line</value>
+  </data>
+  <data name="PortalLinks.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Portal Links</value>
+  </data>
+  <data name="PrintModule.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Impressão</value>
+  </data>
+  <data name="PurgeCacheUnsupported.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Este provedor de cache não exige o recurso PurgeCache.</value>
+  </data>
+  <data name="ReflectionPermission.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Esta extensão requries permissão de reflexão.</value>
+  </data>
+  <data name="Relationship_Added.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Relação adicionado {0}</value>
+  </data>
+  <data name="Relationship_Deleted.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Excluído o relacionamento {0}: {1} ID</value>
+  </data>
+  <data name="Relationship_Updated.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Relação atualizada de {0}</value>
+  </data>
+  <data name="RelationshipType_Added.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Adicionado RelationshipType {0}</value>
+  </data>
+  <data name="RelationshipType_Deleted.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Excluído o RelationshipType {0}: {1} ID</value>
+  </data>
+  <data name="RelationshipType_Updated.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">RelationshipType atualizado {0}</value>
+  </data>
+  <data name="Return.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Retornar ao Site</value>
+  </data>
+  <data name="SearchCrawler Admin.String" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">SearchCrawler Admin</value>
+  </data>
+  <data name="SiteAccessedWhileInstallationWasInProgress.Error" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">O site foi acessado enquanto uma instalação/atualização estava em andamento.</value>
+  </data>
+  <data name="SkinLoadError.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Não foi possível carregar o tema: {0}, erro: {1}&amp;lt;br&amp;gt;</value>
+  </data>
+  <data name="SyndicateModule.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Sindicato</value>
+  </data>
+  <data name="ThereIsAInstallationCurrentlyInProgress.Error" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Há uma instalação em curso. Por favor, tente novamente mais tarde.</value>
+  </data>
+  <data name="TokenReplaceRestrictedProperty.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Erro acessando [{0}: {1}], acesso a {1} é restrito para datasource {0}.</value>
+  </data>
+  <data name="TokenReplaceUnknownObject.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Erro acessando [{0}: {1}], {0} é um símbolo de fonte de objeto desconhecido.</value>
+  </data>
+  <data name="TokenReplaceUnknownProperty.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Erro acessando [{0}: {1}], {1} é desconhecido para datasource {0}.</value>
+  </data>
+  <data name="TrackClicks.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Controlar o número de vezes que este link é clicado</value>
+  </data>
+  <data name="Translate.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Mark traduzido</value>
+  </data>
+  <data name="UnhandledError.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Ocorreu um erro não tratado.</value>
+  </data>
+  <data name="UnTranslate.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Mark não traduzidas</value>
+  </data>
+  <data name="UrlPathNotUnique.Error" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">O URL enviado não está disponível.  Se você deseja aceitar a alternativa sugerida, por favor, clique em salvar.</value>
+  </data>
+  <data name="UserRelationship_Added.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Adicionado UserRelationship ID {0} para UserID {1}, {2} RelatedUserID</value>
+  </data>
+  <data name="UserRelationship_Deleted.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Excluídos UserRelationship ID {0} para UserID {1}, {2} RelatedUserID</value>
+  </data>
+  <data name="UserRelationship_Updated.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Atualizado UserRelationship ID {0} para UserID {1}, {2} RelatedUserID</value>
+  </data>
+  <data name="UserRelationshipPreference_Added.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Adicionado UserRelationshipPreference ID {0} para usuário ID {1} e relacionamento da identificação {2}</value>
+  </data>
+  <data name="UserRelationshipPreference_Deleted.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Eliminado UserRelationshipPreference ID {0} para usuário ID {1} e relacionamento da identificação {2}</value>
+  </data>
+  <data name="UserRelationshipPreference_Updated.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Atualizado UserRelationshipPreference ID {0} para usuário ID {1} e relacionamento da identificação {2}</value>
+  </data>
+  <data name="View Folder.Permission" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Abrir arquivos na pasta</value>
+  </data>
+  <data name="View Tab.Permission" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Ver página</value>
+  </data>
+  <data name="View.Permission" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Módulo de exibição</value>
+  </data>
+  <data name="ViewSource.Action" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Desenvolver</value>
+  </data>
+  <data name="WebPermission.Text" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Esta extensão requer permissão da Web.</value>
+  </data>
+  <data name="Write to Folder.Permission" lastModified="2016-07-22 04:19:11">
+    <value xml:space="preserve">Escreva para a pasta</value>
+  </data>
+</root>

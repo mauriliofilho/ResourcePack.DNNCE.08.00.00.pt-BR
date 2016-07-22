@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AllItemsCheckedString.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Todos os itens verificados</value>
+  </data>
+  <data name="Cancel.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Cancelar</value>
+  </data>
+  <data name="CheckAllString.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Verificar todos os</value>
+  </data>
+  <data name="ComboBox.EmptyMessage" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Não há nenhum item na lista.</value>
+  </data>
+  <data name="ConfirmPasswordMatched.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Senha combinada</value>
+  </data>
+  <data name="ConfirmPasswordUnmatched.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Senha não coincide</value>
+  </data>
+  <data name="CriteriaAtLeastNChars.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Pelo menos {0} caracteres</value>
+  </data>
+  <data name="CriteriaAtLeastNSpecialChars.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Pelo menos {0} caracteres não-alfanuméricos</value>
+  </data>
+  <data name="CriteriaValidationExpression.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Expressão de validação: {0}</value>
+  </data>
+  <data name="FieldSuffix.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">:</value>
+  </data>
+  <data name="File.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Arquivo</value>
+  </data>
+  <data name="FileUpload.CloseButton.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Fechar</value>
+  </data>
+  <data name="FileUpload.DecompressingFile.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Descompactar o arquivo</value>
+  </data>
+  <data name="FileUpload.DecompressLabel.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Descomprimir arquivos Zip</value>
+  </data>
+  <data name="FileUpload.DragAndDropAreaTitle.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Arraste os arquivos aqui ou clique para navegar</value>
+  </data>
+  <data name="FileUpload.EmptyFileUpload.Error" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Seu navegador não oferece suporte para uploads de arquivo vazio.</value>
+  </data>
+  <data name="FileUpload.ErrorDialogTitle.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Erro</value>
+  </data>
+  <data name="FileUpload.FileAlreadyExists.Error" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">O arquivo que você deseja carregar já existe na pasta.</value>
+  </data>
+  <data name="FileUpload.FileIsTooLarge.Error" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Tamanho do arquivo maior que {0}.</value>
+  </data>
+  <data name="FileUpload.FileUploadCancelled.Error" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Upload cancelado</value>
+  </data>
+  <data name="FileUpload.FileUploaded.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Upload de arquivo</value>
+  </data>
+  <data name="FileUpload.FileUploadFailed.Error" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Falha de carregamento</value>
+  </data>
+  <data name="FileUpload.InvalidFileExtensions.Error" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Alguns arquivos selecionados com extensões inválidos são excluídos do carregamento.  Você só pode fazer upload de arquivos com as seguintes extensões: {0}.</value>
+  </data>
+  <data name="FileUpload.KeepButton.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Manter</value>
+  </data>
+  <data name="FileUpload.ReplaceButton.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Substitua</value>
+  </data>
+  <data name="FileUpload.Title.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Upload de arquivos</value>
+  </data>
+  <data name="FileUpload.TooManyFiles.Error" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Você não pode carregar mais de {0} arquivo (s) de uma só vez.</value>
+  </data>
+  <data name="FileUpload.UploadFileMethod.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Upload de arquivo</value>
+  </data>
+  <data name="FileUpload.UploadFromWebButton.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Fazer upload</value>
+  </data>
+  <data name="FileUpload.UploadFromWebMethod.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">De URL</value>
+  </data>
+  <data name="FileUpload.UploadStopped.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Upload de arquivo parado</value>
+  </data>
+  <data name="FileUpload.UploadToFolderLabel.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Enviar para:</value>
+  </data>
+  <data name="FileUpload.UrlTooltip.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Digite a URL do recurso como http://SomeWebSite.com/Images/About.png</value>
+  </data>
+  <data name="Folder.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Pasta</value>
+  </data>
+  <data name="ItemsCheckedString.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">itens verificados</value>
+  </data>
+  <data name="MyFolder.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Minha pasta</value>
+  </data>
+  <data name="NoMatches.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Não há correspondência</value>
+  </data>
+  <data name="NoPermission.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Você não tem permissões para exibir todos os arquivos no sistema de arquivos.</value>
+  </data>
+  <data name="Ok.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Okey</value>
+  </data>
+  <data name="PasswordRulesBodyText.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Contém pelo menos {0} caracteres, 1 maiúsculas letra, 1 número e {1}.</value>
+  </data>
+  <data name="PasswordRulesHeadText.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Diretiva de senha:</value>
+  </data>
+  <data name="PasswordStrengthFair.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">justo</value>
+  </data>
+  <data name="PasswordStrengthMinLength.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">-mínimo de caráter</value>
+  </data>
+  <data name="PasswordStrengthStrong.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">forte</value>
+  </data>
+  <data name="PasswordStrengthWeak.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">fraco</value>
+  </data>
+  <data name="PortalRoot.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Raiz do site</value>
+  </data>
+  <data name="Save.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Salvar arquivo</value>
+  </data>
+  <data name="ShowMoreFormatString.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Itens &amp;lt;b&amp;gt;1&amp;lt;/b&amp;gt;-&amp;lt;b&amp;gt;{0}&amp;lt;/b&amp;gt; de &amp;lt;b&amp;gt;{1}&amp;lt;/b&amp;gt;</value>
+  </data>
+  <data name="Upload.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">Upload de arquivo</value>
+  </data>
+  <data name="UploadError.Text" lastModified="2016-07-22 04:33:24">
+    <value xml:space="preserve">{1} de tipo de arquivo não é válido neste contexto. Tipos de arquivos válidos incluem: {0}</value>
+  </data>
+</root>
