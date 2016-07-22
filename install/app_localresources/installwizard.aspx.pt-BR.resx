@@ -1,0 +1,424 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AccountInfo.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Entre com suas Infromações da conta</value>
+  </data>
+  <data name="AccountInfoIntro.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Para configurar a sua instalação, entre com as seguintes informações</value>
+  </data>
+  <data name="AdminInfo.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Informações Adminstrativas</value>
+  </data>
+  <data name="CheckingIIS.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Verifique a configuração do IIS</value>
+  </data>
+  <data name="ChooseDbError.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Você precisa escolher um tipo para a Base de dados</value>
+  </data>
+  <data name="cmdContinue.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Continue.</value>
+  </data>
+  <data name="Confirm.Help" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Confirme a senha inserindo-a no campo abaixo.</value>
+  </data>
+  <data name="Confirm.Required" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Confirmação requerida é obrigatória</value>
+  </data>
+  <data name="Confirm.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Confirma</value>
+  </data>
+  <data name="CreateSuperUser.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Criar Super User</value>
+  </data>
+  <data name="CreatingSite.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Criar o Site [{0}]</value>
+  </data>
+  <data name="CreatingSuperUser.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Criando o Super User</value>
+  </data>
+  <data name="DatabaseAdvanced.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Customizado</value>
+  </data>
+  <data name="DatabaseConnectionError.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Erro ao conectar com a base de dados</value>
+  </data>
+  <data name="DatabaseError.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Não pode conectar com a base de dados</value>
+  </data>
+  <data name="DatabaseFilename.Help" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Nome do seu arquivo de banco de dados</value>
+  </data>
+  <data name="DatabaseFilename.Required" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Arquivo de Banco de dados é obrigatório.</value>
+  </data>
+  <data name="DatabaseFilename.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Nome do arquivo.</value>
+  </data>
+  <data name="DatabaseInfo.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Informaçõe do banco da dados</value>
+  </data>
+  <data name="DatabaseInstallation.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Instalação do banco de dados</value>
+  </data>
+  <data name="DatabaseName.Help" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">O nome do seu banco de dados</value>
+  </data>
+  <data name="DatabaseName.Required" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">O noma do seu banco de dados é obrigatório.</value>
+  </data>
+  <data name="DatabaseName.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Nome do banco de dados</value>
+  </data>
+  <data name="DatabaseObjectQualifier.Help" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">O objecto classificatório para seu website</value>
+  </data>
+  <data name="DatabaseObjectQualifier.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Objeto classificatório</value>
+  </data>
+  <data name="DatabaseOwner.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Owner do banco de dados</value>
+  </data>
+  <data name="DatabasePassword.Help" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">A senha da sue base de dados</value>
+  </data>
+  <data name="DatabasePassword.Required" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Senha para a base de dados é obrigatória.</value>
+  </data>
+  <data name="DatabasePassword.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Senha base de dados.</value>
+  </data>
+  <data name="DatabaseRunAs.Help" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Executar a base de dados com um tipo específico de usuário.</value>
+  </data>
+  <data name="DatabaseRunAs.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Executar base de dados como.</value>
+  </data>
+  <data name="DatabaseSecurity.Help" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">O tipo de securança usada para sua base de dados.</value>
+  </data>
+  <data name="DatabaseSecurity.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Segurança.</value>
+  </data>
+  <data name="DatabaseServer.Help" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">O nome do seu servidor de danco de dados</value>
+  </data>
+  <data name="DatabaseServer.Required" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Nome do servidor de banco de dados é obrigatório.</value>
+  </data>
+  <data name="DatabaseServer.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Nome do servidor.</value>
+  </data>
+  <data name="DatabaseSetup.Help" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Escolha uma configuração para base de dados Normal ou Avançada.</value>
+  </data>
+  <data name="DatabaseSetup.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Configuração do banco de dados</value>
+  </data>
+  <data name="DatabaseStandard.Text" lastModified="2016-07-18 02:41:35">
+    <value xml:space="preserve">Padrão</value>
+  </data>
+  <data name="DatabaseType.Help" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Tipo de banco de dados que você deseja usar para a instalação.</value>
+  </data>
+  <data name="DatabaseType.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Tipo de banco de dados</value>
+  </data>
+  <data name="DatabaseUsername.Help" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">O nome de usuário para seu banco de dados.</value>
+  </data>
+  <data name="DatabaseUsername.Required" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Nome de usuário de banco de dados é necessária.</value>
+  </data>
+  <data name="DatabaseUsername.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Nome de usuário de banco de dados</value>
+  </data>
+  <data name="DbSecurityIntegrated.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Integrado</value>
+  </data>
+  <data name="DbSecurityUserDefined.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Definidos pelo usuário</value>
+  </data>
+  <data name="DeletingOldFiles.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Excluir arquivos mais antigos para </value>
+  </data>
+  <data name="Email.Help" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Introduza uma morada de emaila para este usuário.</value>
+  </data>
+  <data name="Email.Invalid" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">O endereço de e-mail digitado não é válido</value>
+  </data>
+  <data name="Email.Required" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">É necessário um endereço de e-mail</value>
+  </data>
+  <data name="Email.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Endereço de e-mail:</value>
+  </data>
+  <data name="Error.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Erro</value>
+  </data>
+  <data name="ErrorInStep.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Ocorreu um erro - {0}</value>
+  </data>
+  <data name="ExtensionsInstallation.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Instalação de extensões</value>
+  </data>
+  <data name="FcnMode.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Adicionando FcnMode</value>
+  </data>
+  <data name="FileAndFolderPermissionCheck.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Verificar as permissões de arquivo da pasta</value>
+  </data>
+  <data name="FileAndFolderPermissionCheckFailed.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">&lt;div class="permission"&gt;&lt;img alt="Image showing the security settings for the root folder of the website must be set to Read, Write and Change Control for the ASPNET or NT AUTHORITY/NETWORK SERVICE accounts." src="..\403-3.gif" align="right" hspace="10"/&gt;&lt;p&gt;&lt;b&gt;&lt;font color='red'&amp;gt;Seu site foi reprovado na verificação de permissões.&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;Usando o Windows Explorer, navegue até as pastas do seu site ({0}). Botão direito do mouse na pasta e selecione Compartilhamento e segurança do menu pop-up. Selecione a guia Segurança adicionar a conta de usuário apropriado e defina as permissões.&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;Se usando o Windows 2000 - IIS5.&lt;/h3&gt;&lt;p&gt;A conta de usuário ASPNET deve ter de leitura, gravação e controle de alterações da raiz virtual do seu site.&lt;/p&gt;&lt;h3&gt;Se usando o Windows 2003, Windows Vista ou Windows Server 2008 e IIS6 ou IIS7.&lt;/h3&gt;&lt;p&gt;A conta de usuário NT AUTHORITY\NETWORK SERVICE deve ter de leitura, gravação e controle de alterações da raiz virtual do seu site.&lt;/p&gt;&lt;h3&gt;Se usar Windows 7 ou Windows Server 2008 R2 e IIS7.5&lt;/h3&gt;A conta de usuário do IIS AppPool\DefaultAppPool deve ter de leitura, gravação e controle de alterações da raiz virtual do seu site&lt;/p&gt;&lt;p&gt;&lt;a class="dnnPrimaryAction" href=""&gt;Verifique novamente&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</value>
+  </data>
+  <data name="FileAndFolderPermissionCheckTitle.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Verificação de permissões de pasta e arquivo</value>
+  </data>
+  <data name="FileCreateCheck.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Seleção de criação de arquivo</value>
+  </data>
+  <data name="FileDeleteCheck.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Seleção de exclusão de arquivo</value>
+  </data>
+  <data name="FolderCreateCheck.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Seleção de criação de pasta</value>
+  </data>
+  <data name="FolderDeleteCheck.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Seleção de exclusão de pasta</value>
+  </data>
+  <data name="HostWarning.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Nome do Host contém caracteres ilegais (apenas a-Z, 0-9,- e. são permitidos).  Você deve modificar o nome de host usado.</value>
+  </data>
+  <data name="IISVerificationFail.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">AppPool no IIS deve executar em modo integrado</value>
+  </data>
+  <data name="InitHostSetting.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Inicializando as configurações do Host</value>
+  </data>
+  <data name="InputErrorInvalidPassword.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">A senha digitada não atende os requisitos mínimo da senha.</value>
+  </data>
+  <data name="InputErrorMissingRequiredFields.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Faltando exigido campos</value>
+  </data>
+  <data name="Installation.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Proceda com a instalação</value>
+  </data>
+  <data name="InstallationComplete.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Instalação completa!</value>
+  </data>
+  <data name="InstallationDone.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Feito</value>
+  </data>
+  <data name="InstallationIntroInfo.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">O produto está sendo instalado. Obrigado por sua paciência...</value>
+  </data>
+  <data name="InstallingDataBaseScriptStep.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Instalar Script de banco de dados </value>
+  </data>
+  <data name="InstallingExtension.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Instalando {0} - {1}</value>
+  </data>
+  <data name="InstallingExtensionType.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Instalar pacotes para tipo - {0}</value>
+  </data>
+  <data name="InstallingLanguagesTitle.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Instalação de idiomas</value>
+  </data>
+  <data name="InstallingMembershipDatabaseScriptStep.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Instalando Scripts de banco de dados de associação</value>
+  </data>
+  <data name="InstallTitle.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Instalação</value>
+  </data>
+  <data name="InstallVersion.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Adicionando InstallVersion</value>
+  </data>
+  <data name="IntroDetail.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">&lt;a class="videoLink" href="http://www.dotnetnuke.com/Resources/Training/Training-Videos/Installation.aspx" target="new"&gt;Veja o vídeo de instalação&lt;/a&gt;</value>
+  </data>
+  <data name="InvalidQualifier.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Qualificador de objeto deve começar com uma letra e ser não mais de 20 caracteres.</value>
+  </data>
+  <data name="IsAbleToPerformDatabaseActions.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Seu banco de dados usuário não tem permissões suficientes (dbo) para instalar</value>
+  </data>
+  <data name="IsAbleToPerformDatabaseActionsCheck.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Verificação de banco de dados usuário tem a capacidade de executar ações necessárias</value>
+  </data>
+  <data name="IsSqlServerDbo.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Seu banco de dados usuário não tem permissões de dbo</value>
+  </data>
+  <data name="IsValidDotNetVersion.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">DotNetNuke requer .net 4.0 ou superior funcionar</value>
+  </data>
+  <data name="IsValidSqlServerVersion.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">DotNetNuke requer SQL 2008 (produto expresso ou completo) para trabalhar</value>
+  </data>
+  <data name="IsValidSqlServerVersionCheck.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Verificando a versão do banco de dados é o SQL 2008 (produto expresso ou completo) ou superior para funcionar</value>
+  </data>
+  <data name="Language.Help" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">O idioma que você deseja usar para o seu site.</value>
+  </data>
+  <data name="Language.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Língua</value>
+  </data>
+  <data name="LanguageDutch.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Holandês</value>
+  </data>
+  <data name="LanguageEnglish.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Inglês</value>
+  </data>
+  <data name="LanguageFrench.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Francês</value>
+  </data>
+  <data name="LanguageGerman.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Alemão</value>
+  </data>
+  <data name="LanguageItalian.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Italiano</value>
+  </data>
+  <data name="LanguageSpanish.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Espanhol</value>
+  </data>
+  <data name="LaunchInstall.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Iniciar o instalador</value>
+  </data>
+  <data name="LegacyLangaugePack.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Este pacote de idioma é mais antigo que a versão atual do aplicativo: </value>
+  </data>
+  <data name="LicenseActivation.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Ativação de licença</value>
+  </data>
+  <data name="NoErrorsLogged.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Sem erros de instalação foram registrados</value>
+  </data>
+  <data name="NoInstallationLog.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Não há registro da instalação</value>
+  </data>
+  <data name="PageTitle.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Instalação</value>
+  </data>
+  <data name="Password.Help" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">A senha para a conta de superusuário.</value>
+  </data>
+  <data name="Password.Required" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Senha é necessária.</value>
+  </data>
+  <data name="Password.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Senha</value>
+  </data>
+  <data name="PasswordMismatch.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">As senhas não coincidem.</value>
+  </data>
+  <data name="ProcessingUpgradeScript.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Aplicar o Script de atualização </value>
+  </data>
+  <data name="RequiresFileOrDatabase.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Arquivo ou banco de dados entrada é necessário sob o nó de conexão no arquivo DotNetNuke.Install.Config</value>
+  </data>
+  <data name="Retry.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Tente novamente</value>
+  </data>
+  <data name="SeeLogs.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Ver Logs</value>
+  </data>
+  <data name="SkipCreatingSite.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Portal Alias [{0}] já está presente. Pular esta etapa.</value>
+  </data>
+  <data name="SqlTypeExpress.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">SQL Server Express arquivo</value>
+  </data>
+  <data name="SqlTypeServer.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">SQL Server/SQL Server Express de banco de dados</value>
+  </data>
+  <data name="StandardDatabaseMsg.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Não há conexão de banco de dados padrão válido detectado.
+Opção de configuração de banco de dados padrão não está disponível</value>
+  </data>
+  <data name="StepFailed.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Passo falhou - {0}</value>
+  </data>
+  <data name="SuperUserCreation.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Criação de super usuário</value>
+  </data>
+  <data name="TemplateBlank.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Modelo em branco</value>
+  </data>
+  <data name="TemplateDefault.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Modelo padrão</value>
+  </data>
+  <data name="TemplateMobile.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Móvel modelo</value>
+  </data>
+  <data name="TemplateSolutions.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Modelo de soluções</value>
+  </data>
+  <data name="TestingDatabase.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Verificar a Conexão de banco de dados</value>
+  </data>
+  <data name="TimerMinutes.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Minutos</value>
+  </data>
+  <data name="TimerSeconds.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">segundos</value>
+  </data>
+  <data name="UpdatingConfigFile.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Atualizando o arquivo de configuração para </value>
+  </data>
+  <data name="UpgradingNormalApplication.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Atualizando o aplicativo</value>
+  </data>
+  <data name="UpgradingVersionApplication.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Atualizando o aplicativo para </value>
+  </data>
+  <data name="UserName.Help" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">O nome de usuário para a conta de superusuário.</value>
+  </data>
+  <data name="UserName.Required" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Nome de usuário é necessária.</value>
+  </data>
+  <data name="UserName.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Nome de usuário</value>
+  </data>
+  <data name="ViewWebsite.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Ver Website</value>
+  </data>
+  <data name="VisitWebsite.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Visite o site</value>
+  </data>
+  <data name="WebsiteCreation.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Criação de site</value>
+  </data>
+  <data name="WebsiteInfo.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Informações do site</value>
+  </data>
+  <data name="WebsiteName.Help" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Digite o nome que você deseja usar para o seu site.</value>
+  </data>
+  <data name="WebsiteName.Required" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Nome do site é necessário.</value>
+  </data>
+  <data name="WebsiteName.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Nome do site</value>
+  </data>
+  <data name="WebsiteTemplate.Help" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">O tipo de site que você deseja configurar.</value>
+  </data>
+  <data name="WebsiteTemplate.Text" lastModified="2016-07-18 00:08:22">
+    <value xml:space="preserve">Modelo </value>
+  </data>
+</root>

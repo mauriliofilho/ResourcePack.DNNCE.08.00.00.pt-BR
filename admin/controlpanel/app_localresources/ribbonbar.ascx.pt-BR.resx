@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddButton.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Adicionar página</value>
+  </data>
+  <data name="AddExisting.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Adicionar módulo existente</value>
+  </data>
+  <data name="AddModule.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Adicionar módulo</value>
+  </data>
+  <data name="AddNew.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Adicionar novo módulo</value>
+  </data>
+  <data name="AdminConsole.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Admin</value>
+  </data>
+  <data name="AdminConsole.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Admin Console</value>
+  </data>
+  <data name="Category.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Categoria</value>
+  </data>
+  <data name="cmdCancelAdd.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Cancelar</value>
+  </data>
+  <data name="cmdConfirmAdd.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Eu entendo os riscos.</value>
+  </data>
+  <data name="CommonTabActions.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Ações de página:</value>
+  </data>
+  <data name="CommonTabAddPage.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Inserir página</value>
+  </data>
+  <data name="CommonTabInsertModule.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Inserir módulo</value>
+  </data>
+  <data name="CurrentTabActions.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Ações</value>
+  </data>
+  <data name="CurrentTabAddPage.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Adicionar nova página</value>
+  </data>
+  <data name="CurrentTabCopyToChildren.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Ações de cópia</value>
+  </data>
+  <data name="CurrentTabEditPage.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Atualizar a página atual</value>
+  </data>
+  <data name="CurrentTabHelp.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Ajuda</value>
+  </data>
+  <data name="CurrentTabSettings.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Configurações</value>
+  </data>
+  <data name="Disabled.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Com deficiência</value>
+  </data>
+  <data name="HostConsole.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Acolhimento</value>
+  </data>
+  <data name="HostConsole.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Console de acolhimento</value>
+  </data>
+  <data name="hypMessageUrl.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">http://www.DotNetNuke.com</value>
+  </data>
+  <data name="hypUpgrade.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Clique aqui para obter a versão mais recente</value>
+  </data>
+  <data name="IncludeInMenu.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Incluir no Menu</value>
+  </data>
+  <data name="Insert.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Inserir</value>
+  </data>
+  <data name="lblUILanguage.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Interface</value>
+  </data>
+  <data name="LocateModule.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Localização do módulo</value>
+  </data>
+  <data name="Location.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Inserir</value>
+  </data>
+  <data name="MenuTitleSuffix.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Características</value>
+  </data>
+  <data name="Mode.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Modo de</value>
+  </data>
+  <data name="ModeEdit.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Editar</value>
+  </data>
+  <data name="ModeLayout.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Layout de</value>
+  </data>
+  <data name="ModeMobilePreview.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Visualizar</value>
+  </data>
+  <data name="ModeView.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Modo de exibição</value>
+  </data>
+  <data name="Module.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Módulo</value>
+  </data>
+  <data name="Name.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Nome</value>
+  </data>
+  <data name="Pane.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Painel</value>
+  </data>
+  <data name="SelectModule.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Seleção de módulo</value>
+  </data>
+  <data name="Site.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Local</value>
+  </data>
+  <data name="SiteNewPage.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Nova página</value>
+  </data>
+  <data name="SiteNewPage.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Criar nova página</value>
+  </data>
+  <data name="SiteTabAddPage.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Inserir página</value>
+  </data>
+  <data name="SiteTabFeatures.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Características</value>
+  </data>
+  <data name="SiteTabLogging.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Logs</value>
+  </data>
+  <data name="SiteTabManage.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Ações comuns</value>
+  </data>
+  <data name="SiteTabRestore.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Restauração</value>
+  </data>
+  <data name="SiteTabSettings.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Configurações</value>
+  </data>
+  <data name="SiteTabUsers.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Segurança do usuário</value>
+  </data>
+  <data name="Skin.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Tema</value>
+  </data>
+  <data name="SwitchButton.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Site do interruptor</value>
+  </data>
+  <data name="SystemTabInformation.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Informações</value>
+  </data>
+  <data name="SystemTabManage.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Gerenciar</value>
+  </data>
+  <data name="SystemTabMarketplace.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Mercado</value>
+  </data>
+  <data name="SystemTabSettings.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Configurações</value>
+  </data>
+  <data name="SystemTabSwitchSite.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Ver Website</value>
+  </data>
+  <data name="SystemTabTools.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Ferramentas avançadas</value>
+  </data>
+  <data name="Tab_CommonTasks.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Tarefas comuns</value>
+  </data>
+  <data name="Tab_CurrentPage.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Página atual</value>
+  </data>
+  <data name="Tab_Host.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Acolhimento</value>
+  </data>
+  <data name="Tab_Site.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Outras ferramentas</value>
+  </data>
+  <data name="Template.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Modelo</value>
+  </data>
+  <data name="Title.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Título</value>
+  </data>
+  <data name="Tool.ClearCache.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Limpar Cache</value>
+  </data>
+  <data name="Tool.ClearCache.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Selecione para limpar o cache local do arquivo antigo de todos.</value>
+  </data>
+  <data name="Tool.Console.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Console</value>
+  </data>
+  <data name="Tool.Console.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Admin Console</value>
+  </data>
+  <data name="Tool.CopyDesignToChildren.Confirm" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Tema e contêiner serão substituídos para todas as crianças desta página.&lt;br/&gt;&lt;br/&gt;Tem certeza que deseja continuar?</value>
+  </data>
+  <data name="Tool.CopyDesignToChildren.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Copiar o desenho para crianças</value>
+  </data>
+  <data name="Tool.CopyDesignToChildren.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Tema de cópia e configurações de recipiente para crianças</value>
+  </data>
+  <data name="Tool.CopyDesignToChildrenPageEditor.Confirm" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Tema e contêiner serão substituídos por crianças desta página que você tenha permissões para editar.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;Tem certeza que deseja continuar?</value>
+  </data>
+  <data name="Tool.CopyPage.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Cópia</value>
+  </data>
+  <data name="Tool.CopyPage.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Página de cópia</value>
+  </data>
+  <data name="Tool.CopyPermissionsToChildren.Confirm" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">As permissões serão substituídas para todas as crianças desta página.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;Tem certeza que deseja continuar?</value>
+  </data>
+  <data name="Tool.CopyPermissionsToChildren.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Copiar as permissões para crianças</value>
+  </data>
+  <data name="Tool.CopyPermissionsToChildren.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Copiar as permissões para crianças</value>
+  </data>
+  <data name="Tool.CopyPermissionsToChildrenPageEditor.Confirm" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">As permissões serão substituídas para todas as crianças desta página que você tenha permissões para editar&lt;br/&gt;&lt;br/&gt;;Tem certeza que deseja continuar?</value>
+  </data>
+  <data name="Tool.DeletePage.Confirm" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Tem certeza que deseja excluir esta página e suas páginas de criança?</value>
+  </data>
+  <data name="Tool.DeletePage.Special.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Não é possível excluir esta página porque é um sistema de página ou a página está em uso.  Consulte Configurações de Site &amp;gt; configurações avançadas &amp;gt; Page Management ou contate o administrador.</value>
+  </data>
+  <data name="Tool.DeletePage.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Excluir</value>
+  </data>
+  <data name="Tool.DeletePage.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Excluir página</value>
+  </data>
+  <data name="Tool.ExportPage.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Exportação</value>
+  </data>
+  <data name="Tool.ExportPage.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Exportar página</value>
+  </data>
+  <data name="Tool.HealthMonitoring.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Saúde</value>
+  </data>
+  <data name="Tool.HealthMonitoring.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Monitoramento de integridade</value>
+  </data>
+  <data name="Tool.Help.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Ajuda</value>
+  </data>
+  <data name="Tool.Help.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Ajuda on-line</value>
+  </data>
+  <data name="Tool.HostConsole.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Console</value>
+  </data>
+  <data name="Tool.ImpersonateUser.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Representar</value>
+  </data>
+  <data name="Tool.ImpersonateUser.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Usuário Impersontate</value>
+  </data>
+  <data name="Tool.ImportPage.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Importação</value>
+  </data>
+  <data name="Tool.ImportPage.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Página de importação</value>
+  </data>
+  <data name="Tool.IntegrityChecker.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Integridade</value>
+  </data>
+  <data name="Tool.IntegrityChecker.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Integridade do aplicativo</value>
+  </data>
+  <data name="Tool.NewPage.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Adicionar</value>
+  </data>
+  <data name="Tool.NewPage.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Criar nova página</value>
+  </data>
+  <data name="Tool.NewRole.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Adicionar papel</value>
+  </data>
+  <data name="Tool.NewRole.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Adicionar novo papel</value>
+  </data>
+  <data name="Tool.NewUser.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Adicionar usuário</value>
+  </data>
+  <data name="Tool.NewUser.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Adicionar novo usuário</value>
+  </data>
+  <data name="Tool.PageSettings.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Configurações de página</value>
+  </data>
+  <data name="Tool.PageSettings.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Configurações de página</value>
+  </data>
+  <data name="Tool.RecycleApp.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Reciclar o domínio de aplicativo</value>
+  </data>
+  <data name="Tool.RecycleApp.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Selecione para reiniciar o servidor e recuperar todos os novos arquivos para o site atual.  O site estará indisponível por alguns momentos.</value>
+  </data>
+  <data name="Tool.SupportTickets.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Suporte</value>
+  </data>
+  <data name="Tool.SupportTickets.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Tickets de suporte</value>
+  </data>
+  <data name="Tool.UploadFile.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Upload de arquivo</value>
+  </data>
+  <data name="Tool.UploadFile.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Upload de arquivo para o servidor</value>
+  </data>
+  <data name="Tool.WebServerManager.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Servidores Web</value>
+  </data>
+  <data name="Tool.WebServerManager.ToolTip" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Gerenciador de servidor Web</value>
+  </data>
+  <data name="UpdateButton.Text" lastModified="2016-07-20 02:42:48">
+    <value xml:space="preserve">Atualizar página</value>
+  </data>
+</root>

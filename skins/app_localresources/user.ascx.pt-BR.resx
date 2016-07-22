@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CheckMessages.Text" lastModified="2016-07-21 15:48:08">
+    <value xml:space="preserve">Mensagens de verificação</value>
+  </data>
+  <data name="CheckNotifications.Text" lastModified="2016-07-21 15:48:08">
+    <value xml:space="preserve">Verificar as notificações</value>
+  </data>
+  <data name="Messages.Text" lastModified="2016-07-21 15:48:08">
+    <value xml:space="preserve">&lt;span&gt;{0}&lt;/span&gt;&lt;strong&gt; Mensagens&lt;/strong&gt;</value>
+  </data>
+  <data name="NewMessages.Text" lastModified="2016-07-21 15:48:08">
+    <value xml:space="preserve"> ({0})</value>
+  </data>
+  <data name="NoMessages.Text" lastModified="2016-07-21 15:48:08">
+    <value xml:space="preserve">&lt;strong&gt; Mensagenssages&lt;/strong&gt;</value>
+  </data>
+  <data name="NoNotifications.Text" lastModified="2016-07-21 15:48:08">
+    <value xml:space="preserve">&lt;strong&gt; Notificaçõesions&lt;/strong&gt;</value>
+  </data>
+  <data name="Notifications.Text" lastModified="2016-07-21 15:48:08">
+    <value xml:space="preserve">&lt;span&gt;{0}&lt;/span&gt;&lt;strong&gt; Notificações&lt;/strong&gt;</value>
+  </data>
+  <data name="ProfileAvatar.Text" lastModified="2016-07-21 15:48:08">
+    <value xml:space="preserve">Perfil Avatar</value>
+  </data>
+  <data name="Register.Text" lastModified="2016-07-21 15:48:08">
+    <value xml:space="preserve">Registre-se</value>
+  </data>
+  <data name="ToolTip.Text" lastModified="2016-07-21 15:48:08">
+    <value xml:space="preserve">Clique aqui para visitar a página do seu perfil.</value>
+  </data>
+  <data name="ToolTipNewMessages.Text" lastModified="2016-07-21 15:48:08">
+    <value xml:space="preserve">Você tem {0} nova mensagem (ns). Clique aqui para visitar a página do seu perfil.</value>
+  </data>
+  <data name="VisitMyProfile.Text" lastModified="2016-07-21 15:48:08">
+    <value xml:space="preserve">Visite meu perfil</value>
+  </data>
+</root>

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AccountInfo.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Informação de conta</value>
+  </data>
+  <data name="BestPractices.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Você está prestes a atualizar seu site para uma versão mais recente do aplicativo. Aplicar atualizações em uma base consistente é a melhor maneira de garantir que você está protegendo a integridade do seu investimento e a segurança de seus usuários e ativos. Antes de prosseguir com o processo automatizado de atualização, por favor certifique-se de que:
+&lt;ul&gt;
+&lt;li&gt;Você fez planos para primeira tentativa este processo em um ambiente de preparação.
+&lt;li&gt;Você documentaram suas características instalação atual, inclusive fazendo uma pesquisa sobre a compatibilidade de quaisquer módulos de terceiros que você pode estar usando.
+&lt;li&gt;Você criou os backups necessários do seu ambiente de modo que você será capaz de restaurar o seu site no caso de uma falha inesperada de atualização.
+&lt;/ul&gt;</value>
+  </data>
+  <data name="CurrentVersion.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Versão atual - {0}</value>
+  </data>
+  <data name="DatabaseUpgrade.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Atualizando o banco de dados</value>
+  </data>
+  <data name="Error.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Erro</value>
+  </data>
+  <data name="ErrorInStep.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Ocorreu um erro - {0}</value>
+  </data>
+  <data name="ExtensionsUpgrade.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Atualizando extensões</value>
+  </data>
+  <data name="IntroDetail.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">&lt;p&gt;Bem-vindo ao DotNetNuke atualizar a página.&lt;/p&gt;
+
+&lt;p&gt;O primeiro passo é escolher o idioma que você deseja usar para a atualização.&lt;/p&gt;
+
+</value>
+  </data>
+  <data name="InvalidCredentials.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Nome de usuário e senha não reconhecido.</value>
+  </data>
+  <data name="Next.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Atualize agora</value>
+  </data>
+  <data name="NoInstallationLog.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Não há registro da instalação</value>
+  </data>
+  <data name="Password.Help" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">A senha para a conta de superusuário.</value>
+  </data>
+  <data name="Password.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Senha:</value>
+  </data>
+  <data name="Retry.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Tente novamente</value>
+  </data>
+  <data name="SeeLogs.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Exibir Logs de</value>
+  </data>
+  <data name="TimerMinutes.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Minutos</value>
+  </data>
+  <data name="Title.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Atualização</value>
+  </data>
+  <data name="Upgrade.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Atualização</value>
+  </data>
+  <data name="UpgradeDone.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Atualização completa</value>
+  </data>
+  <data name="UpgradeStarted.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Começou a atualização no</value>
+  </data>
+  <data name="UpgradingDatabase.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Atualizando o banco de dados</value>
+  </data>
+  <data name="Username.Help" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">O nome de usuário para a conta de superusuário.</value>
+  </data>
+  <data name="Username.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Host (superusuário) nome de usuário:</value>
+  </data>
+  <data name="Version.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Atualização - versão {0}</value>
+  </data>
+  <data name="VersionsMatch.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Coincidir com as versões de banco de dados e aplicação - não há nenhuma atualização para aplicar.</value>
+  </data>
+  <data name="VersionsMatchButIncrementalExists.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Coincidir com as versões de banco de dados e aplicativo - há um lançamento incremental, para que você pode atualizar.</value>
+  </data>
+  <data name="ViewWebsite.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Ver Website</value>
+  </data>
+  <data name="VisitWebsite.Text" lastModified="2016-07-18 00:13:11">
+    <value xml:space="preserve">Visite o site</value>
+  </data>
+</root>

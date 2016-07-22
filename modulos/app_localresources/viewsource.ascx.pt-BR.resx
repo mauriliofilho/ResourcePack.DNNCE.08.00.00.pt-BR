@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="cmdUpdate.Text" lastModified="2016-07-21 15:41:57">
+    <value xml:space="preserve">Fonte de atualização</value>
+  </data>
+  <data name="ControlTitle_viewsource.Text" lastModified="2016-07-21 15:41:57">
+    <value xml:space="preserve">Fonte de controle de módulo de exibição</value>
+  </data>
+  <data name="NoFileTypeSelected.Text" lastModified="2016-07-21 15:41:57">
+    <value xml:space="preserve">Você deve selecionar um tipo de arquivo para editar antes de clicar no botão atualizar.</value>
+  </data>
+  <data name="plFile.Help" lastModified="2016-07-21 15:41:57">
+    <value xml:space="preserve">Selecione o arquivo cuja fonte que você deseja exibir.</value>
+  </data>
+  <data name="plFile.Text" lastModified="2016-07-21 15:41:57">
+    <value xml:space="preserve">Selecione o arquivo:</value>
+  </data>
+  <data name="plSource.Help" lastModified="2016-07-21 15:41:57">
+    <value xml:space="preserve">Você pode exibir a fonte do módulo controle na caixa de texto abaixo.  Se você estiver executando em uma máquina local, então você também pode editar e modificar a fonte.</value>
+  </data>
+  <data name="plSource.Text" lastModified="2016-07-21 15:41:57">
+    <value xml:space="preserve">Módulo fonte de controle:</value>
+  </data>
+  <data name="SourceFile.Text" lastModified="2016-07-21 15:41:57">
+    <value xml:space="preserve">Arquivo de origem - {0}</value>
+  </data>
+</root>

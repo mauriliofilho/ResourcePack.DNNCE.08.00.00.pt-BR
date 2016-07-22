@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Above.Text" lastModified="2016-07-20 02:16:18">
+    <value xml:space="preserve">Acima</value>
+  </data>
+  <data name="AddModule.Text" lastModified="2016-07-20 02:16:18">
+    <value xml:space="preserve">Adicionar módulo</value>
+  </data>
+  <data name="AllCategories.Text" lastModified="2016-07-20 02:16:18">
+    <value xml:space="preserve">Todas as categorias</value>
+  </data>
+  <data name="Below.Text" lastModified="2016-07-20 02:16:18">
+    <value xml:space="preserve">Abaixo</value>
+  </data>
+  <data name="Bottom.Text" lastModified="2016-07-20 02:16:18">
+    <value xml:space="preserve">Parte inferior</value>
+  </data>
+  <data name="CopyModuleDefault.Text" lastModified="2016-07-20 02:16:18">
+    <value xml:space="preserve">Copiar Módulos</value>
+  </data>
+  <data name="CopyModuleWcontent.Text" lastModified="2016-07-20 02:16:18">
+    <value xml:space="preserve">Copiar Módulos (com conteúdo)</value>
+  </data>
+  <data name="CopyModuleWcontent.ToolTip" lastModified="2016-07-20 02:16:18">
+    <value xml:space="preserve">Isso cria uma instância independente do módulo que irá conter as configurações e o conteúdo do módulo original.</value>
+  </data>
+  <data name="CopyModuleWOcontent.Text" lastModified="2016-07-20 02:16:18">
+    <value xml:space="preserve">Copiar Módulos (sem conteúdo)</value>
+  </data>
+  <data name="CopyModuleWOcontent.ToolTip" lastModified="2016-07-20 02:16:18">
+    <value xml:space="preserve">Isso cria uma instância independente do módulo que irá conter apenas as configurações do módulo original.  O conteúdo não pode ser copiado porque o módulo não oferece suporte a interface IPortable.</value>
+  </data>
+  <data name="DefaultModule.Text" lastModified="2016-07-20 02:16:18">
+    <value xml:space="preserve">DNN_HTML</value>
+  </data>
+  <data name="hlMoreExtensions.Text" lastModified="2016-07-20 02:16:18">
+    <value xml:space="preserve">Encontrar mais extensões</value>
+  </data>
+  <data name="Module.Text" lastModified="2016-07-20 02:16:18">
+    <value xml:space="preserve">Módulo</value>
+  </data>
+  <data name="Page.Text" lastModified="2016-07-20 02:16:18">
+    <value xml:space="preserve">Página</value>
+  </data>
+  <data name="PermissionEdit.Text" lastModified="2016-07-20 02:16:18">
+    <value xml:space="preserve">Só editores de página</value>
+  </data>
+  <data name="PermissionView.Text" lastModified="2016-07-20 02:16:18">
+    <value xml:space="preserve">Mesmo que a página</value>
+  </data>
+  <data name="Top.Text" lastModified="2016-07-20 02:16:18">
+    <value xml:space="preserve">Início</value>
+  </data>
+  <data name="Visibility.Text" lastModified="2016-07-20 02:16:18">
+    <value xml:space="preserve">Visibilidade</value>
+  </data>
+</root>

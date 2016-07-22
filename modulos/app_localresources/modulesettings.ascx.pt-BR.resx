@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AllowIndexLabel.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Marque esta caixa se o módulo deve ser indexado por rastreadores de pesquisa.</value>
+  </data>
+  <data name="AllowIndexLabel.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Permitir a indexação</value>
+  </data>
+  <data name="Appearance.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Configurações básicas</value>
+  </data>
+  <data name="Bind.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Vincular</value>
+  </data>
+  <data name="CacheDuration.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Digite a duração (em segundos) para a página de cache.  Este deve ser um número inteiro.</value>
+  </data>
+  <data name="CacheDuration.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Duração de cache (segundos)</value>
+  </data>
+  <data name="CacheDurationWarning.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Este módulo tem indicado uma recomendação para desativar o cache (selecione NONE na lista provedor de Cache de saída acima).  Habilitando cache neste módulo não é recomendado e pode causar o módulo exibir dados desatualizados.</value>
+  </data>
+  <data name="CacheInherited.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Herdado</value>
+  </data>
+  <data name="CacheProvider.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Selecione o provedor a ser usado para esta página.</value>
+  </data>
+  <data name="CacheProvider.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Provedor de Cache de saída</value>
+  </data>
+  <data name="CacheSettings.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Configurações de cache</value>
+  </data>
+  <data name="cmdClearAllTabModuleCache.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Limpar o Cache para todos separador módulos</value>
+  </data>
+  <data name="cmdClearTabModuleCache.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Limpar o Cache para este módulo guia</value>
+  </data>
+  <data name="ContainerPreview.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Visualizar</value>
+  </data>
+  <data name="ControlTitle_module.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Módulo</value>
+  </data>
+  <data name="ControlTitle_settings.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Configurações de {0}</value>
+  </data>
+  <data name="CreateBoundCopies.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Criar cópias encadernadas</value>
+  </data>
+  <data name="cultureLabel.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">A cultura para este módulo.</value>
+  </data>
+  <data name="cultureLabel.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Cultura de módulo:</value>
+  </data>
+  <data name="CustomSettings.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Configurações de {0}</value>
+  </data>
+  <data name="defaultCultureLabel.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Clique neste link para visualizar a versão deste módulo na cultura padrão.</value>
+  </data>
+  <data name="defaultCultureLabel.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Cultura de padrão:</value>
+  </data>
+  <data name="edit.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Editar</value>
+  </data>
+  <data name="ExpandAll.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Expandir todos os</value>
+  </data>
+  <data name="GeneralDetails.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Configurações básicas</value>
+  </data>
+  <data name="InheritPermissions.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Herdar permissões de &amp;lt;b&amp;gt;exibição&amp;lt;/b&amp;gt; de &amp;lt;b&amp;gt;página&amp;lt;/b&amp;gt;</value>
+  </data>
+  <data name="InstalledOn.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Esta lista exibe as páginas que deste módulo foi adicionado ao usar o recurso de Adicionar módulo existente.  Um módulo existente pode ser adicionado para outras páginas usando o recurso Adicionar módulo existente.</value>
+  </data>
+  <data name="InstalledOn.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Este módulo foi adicionado para as páginas seguintes:</value>
+  </data>
+  <data name="isShareableLabel.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Marque esta caixa para permitir que o módulo para ser compartilhado entre sites.</value>
+  </data>
+  <data name="isShareableLabel.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">É compartilhável</value>
+  </data>
+  <data name="isShareableViewOnlyLabel.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Marque esta caixa para restringir o módulo para ser compartilhado como exibir apenas.</value>
+  </data>
+  <data name="isShareableViewOnlyLabel.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Exibir apenas</value>
+  </data>
+  <data name="lblCachedItemCount.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Contagem do Cache atual: {0} item para este módulo de guia.</value>
+  </data>
+  <data name="lblNoRecords.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Este módulo não foi adicionado para quaisquer outras páginas.</value>
+  </data>
+  <data name="LocalizedModules.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Localização do módulo</value>
+  </data>
+  <data name="ModuleExists.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Este módulo já existe na página de destino (pode ser na lixeira) e apenas uma instância de um módulo pode existir em uma página.</value>
+  </data>
+  <data name="ModuleHelp.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">&amp;lt;h1&amp;gt;Módulo configurações&amp;lt;/h1&amp;gt;&amp;lt;p&amp;gt;Gerencie as configurações do módulo para a página atual.  Isso permite que você especifique as características do módulo incluindo conteúdo, permissões e exibir propriedades.&amp;lt;/p&amp;gt;</value>
+  </data>
+  <data name="ModuleInstalledOn.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Adicionados às páginas</value>
+  </data>
+  <data name="ModuleSettings.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Módulo configurações</value>
+  </data>
+  <data name="MonikerExists.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">O novo valor do moniker já existe; Ele deve ser exclusivo no portal.</value>
+  </data>
+  <data name="MsgInstalledOnAll.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Esta instância do módulo é exibida em todas as páginas.</value>
+  </data>
+  <data name="MsgInstalledOnNone.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Esta instância do módulo não foi adicionada a quaisquer páginas adicionais.</value>
+  </data>
+  <data name="OtherSettings.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Configurações avançadas</value>
+  </data>
+  <data name="Page.Header" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Página de vídeo</value>
+  </data>
+  <data name="PageSettings.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Configurações de página</value>
+  </data>
+  <data name="Permissions.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Permissões</value>
+  </data>
+  <data name="plAdminBorder.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Marque esta caixa para exibir uma borda vermelha ao redor do módulo para os administradores quando eles são registrados no site.</value>
+  </data>
+  <data name="plAdminBorder.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Ocultar a borda Admin</value>
+  </data>
+  <data name="plAlign.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Selecione o alinhamento padrão do conteúdo do módulo.</value>
+  </data>
+  <data name="plAlign.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Alinhamento:</value>
+  </data>
+  <data name="plAllModules.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Marque esta caixa para aplicar as configurações de página deste módulo para todos os módulos existentes.  Administradores só.</value>
+  </data>
+  <data name="plAllModules.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Se aplicam a todos os módulos</value>
+  </data>
+  <data name="plAllTabs.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Marque a caixa para exibir o módulo no mesmo local em todas as páginas do site.</value>
+  </data>
+  <data name="plAllTabs.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Módulo da exposição em todas as páginas</value>
+  </data>
+  <data name="plBorder.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Digite uma largura da borda para o módulo.</value>
+  </data>
+  <data name="plBorder.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Fronteira:</value>
+  </data>
+  <data name="plCacheTime.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Digite o número de segundos que o conteúdo deste módulo é armazenado em cache.</value>
+  </data>
+  <data name="plCacheTime.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Tempo de cache (seg):</value>
+  </data>
+  <data name="plColor.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Digite um nome de cor ou um valor hexadecimal para o fundo deste módulo.</value>
+  </data>
+  <data name="plColor.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Cor:</value>
+  </data>
+  <data name="plDefault.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Marque esta caixa para usar as configurações de página deste módulo como as configurações padrão quando adicionando novos módulos.  Administradores só.</value>
+  </data>
+  <data name="plDefault.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Conjunto como configurações padrão</value>
+  </data>
+  <data name="plDisplayPrint.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Seleccione esta caixa para permitir a impressão sobre este módulo.</value>
+  </data>
+  <data name="plDisplayPrint.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Permitir a impressão</value>
+  </data>
+  <data name="plDisplaySyndicate.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Assinale esta caixa para activar RSS neste módulo.</value>
+  </data>
+  <data name="plDisplaySyndicate.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Permitir que o sindicato</value>
+  </data>
+  <data name="plDisplayTitle.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Marque esta caixa para exibir o módulo container.</value>
+  </data>
+  <data name="plDisplayTitle.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Recipiente de exposição</value>
+  </data>
+  <data name="plEndDate.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Selecione a data lnd para exibir este módulo.  O módulo só será visível para os usuários com permissões Gerenciar após esta data.</value>
+  </data>
+  <data name="plEndDate.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Data de término:</value>
+  </data>
+  <data name="plFooter.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Digite o texto de rodapé que aparecerá abaixo o conteúdo deste módulo.</value>
+  </data>
+  <data name="plFooter.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Rodapé:</value>
+  </data>
+  <data name="plFriendlyName.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Exibe o nome do módulo.</value>
+  </data>
+  <data name="plFriendlyName.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Módulo:</value>
+  </data>
+  <data name="plHeader.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Digite o texto de cabeçalho que aparecerá acima do conteúdo deste módulo.</value>
+  </data>
+  <data name="plHeader.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Cabeçalho:</value>
+  </data>
+  <data name="plIcon.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Selecione um ícone para exibir na barra de título deste módulo.</value>
+  </data>
+  <data name="plIcon.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Ícone:</value>
+  </data>
+  <data name="plModuleContainer.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Selecione um recipiente para o módulo.</value>
+  </data>
+  <data name="plModuleContainer.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Recipiente de módulo:</value>
+  </data>
+  <data name="plMoniker.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Um identificador exclusivo para este módulo na página. Isso pode ser usado por chamadores de WEB API para definir o contexto da guia e o contexto do módulo.</value>
+  </data>
+  <data name="plMoniker.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Moniker de módulo:</value>
+  </data>
+  <data name="plNewTabs.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Marque esta caixa para adicionar o módulo para novas páginas apenas.  Administradores só.</value>
+  </data>
+  <data name="plNewTabs.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Adicionar novas páginas apenas</value>
+  </data>
+  <data name="plPermissions.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Selecione os modo de exibição e editar permissões, verificação/desmarcando as caixas na grade.  Marque a caixa de herdar permissões de exibição para usar a permissão de página para o módulo.</value>
+  </data>
+  <data name="plPermissions.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Permissões:</value>
+  </data>
+  <data name="plStartDate.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Selecione a data de início para a exibição deste módulo.  O módulo só será visível para os usuários com permissões Gerenciar antes dessa data.</value>
+  </data>
+  <data name="plStartDate.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Data de início:</value>
+  </data>
+  <data name="plTab.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Selecione a página que será movida para esta instância do módulo.</value>
+  </data>
+  <data name="plTab.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Ir para página:</value>
+  </data>
+  <data name="plTags.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Selecione itens na lista suspensa para marcar este módulo.</value>
+  </data>
+  <data name="plTags.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Etiquetas:</value>
+  </data>
+  <data name="plTitle.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Digite um título para o módulo.  O título será exibido na barra de título do contentor para este módulo, se suportada pelo contêiner.</value>
+  </data>
+  <data name="plTitle.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Título do módulo:</value>
+  </data>
+  <data name="plVisibility.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Escolha o padrão de visibilidade para este módulo.  Ou seja, se o módulo é recolhido ou expandido.</value>
+  </data>
+  <data name="plVisibility.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Expanda/recolher:</value>
+  </data>
+  <data name="plWebSlice.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Marque esta caixa para fazer este módulo um Web Slice do IE8.</value>
+  </data>
+  <data name="plWebSlice.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">É um WebSlice</value>
+  </data>
+  <data name="plWebSliceExpiry.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Insira uma data de quando o Web Slice vai expirar ou deixe em branco para usar a data de término do módulo.</value>
+  </data>
+  <data name="plWebSliceExpiry.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Web Slice expira:</value>
+  </data>
+  <data name="plWebSliceTitle.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Digite um título para o Web Slice ou deixe em branco para usar o título do módulo.</value>
+  </data>
+  <data name="plWebSliceTitle.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Título da fatia da Web:</value>
+  </data>
+  <data name="plWebSliceTTL.Help" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Digite o tempo de vida (TTL) para esta Web Slice em minutos ou deixe em branco para usar o tempo de cache do módulo (convertido em minutos).</value>
+  </data>
+  <data name="plWebSliceTTL.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Web Slice TTL:</value>
+  </data>
+  <data name="PreviewNoSelectionMessage.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Selecione um recipiente para pré-visualizar.</value>
+  </data>
+  <data name="Security.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Configurações avançadas</value>
+  </data>
+  <data name="Site.Header" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Local</value>
+  </data>
+  <data name="Translated.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Mark traduzido</value>
+  </data>
+  <data name="UnBind.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Desvincular a</value>
+  </data>
+  <data name="UnTranslated.Text" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Mark não traduzidas</value>
+  </data>
+  <data name="valBorder.ErrorMessage" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Fronteira inválida (deve ser um número entre 0 e 9).</value>
+  </data>
+  <data name="valCacheTime.ErrorMessage" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Tempo de cache inválida.</value>
+  </data>
+  <data name="valEndDate.ErrorMessage" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Data de encerramento inválido.</value>
+  </data>
+  <data name="valEndDate2.ErrorMessage" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Data de término deve ser depois da data de início.</value>
+  </data>
+  <data name="valStartDate.ErrorMessage" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Data de início inválido.</value>
+  </data>
+  <data name="valWebSliceExpiry.ErrorMessage" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">Data de expiração de invalidar</value>
+  </data>
+  <data name="valWebSliceTTL.ErrorMessage" lastModified="2016-07-21 15:42:28">
+    <value xml:space="preserve">TTL inválido - o valor deve ser um número inteiro.</value>
+  </data>
+</root>

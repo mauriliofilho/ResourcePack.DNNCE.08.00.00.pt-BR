@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BindConfirm.Text" lastModified="2016-07-21 15:42:30">
+    <value xml:space="preserve">Ligação para a versão de cultura padrão excluirá o conteúdo das versões de cultura do sub.  Esta ação é irreversível.  Tem certeza que deseja prosseguir?</value>
+  </data>
+  <data name="bindModule.Text" lastModified="2016-07-21 15:42:30">
+    <value xml:space="preserve">Cultura de padrão de referência</value>
+  </data>
+  <data name="Edit.Header" lastModified="2016-07-21 15:42:30">
+    <value xml:space="preserve">Editar</value>
+  </data>
+  <data name="Language.Header" lastModified="2016-07-21 15:42:30">
+    <value xml:space="preserve">Cultura</value>
+  </data>
+  <data name="markModuleTranslated.Text" lastModified="2016-07-21 15:42:30">
+    <value xml:space="preserve">Marcar, como traduzido</value>
+  </data>
+  <data name="markModuleUnTranslated.Text" lastModified="2016-07-21 15:42:30">
+    <value xml:space="preserve">Marcar como não traduzido</value>
+  </data>
+  <data name="ModuleTitle.Header" lastModified="2016-07-21 15:42:30">
+    <value xml:space="preserve">Título do módulo</value>
+  </data>
+  <data name="ModuleType.Header" lastModified="2016-07-21 15:42:30">
+    <value xml:space="preserve">Módulo</value>
+  </data>
+  <data name="NA.Text" lastModified="2016-07-21 15:42:30">
+    <value xml:space="preserve">Sobre o</value>
+  </data>
+  <data name="Translated.Header" lastModified="2016-07-21 15:42:30">
+    <value xml:space="preserve">Traduzido?</value>
+  </data>
+  <data name="unbindModule.Text" lastModified="2016-07-21 15:42:30">
+    <value xml:space="preserve">Desconectar-se de cultura padrão</value>
+  </data>
+  <data name="UnBound.Header" lastModified="2016-07-21 15:42:30">
+    <value xml:space="preserve">É separado?</value>
+  </data>
+</root>

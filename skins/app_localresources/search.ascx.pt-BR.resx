@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="DropDownGlyph.AltText" lastModified="2016-07-21 15:48:31">
+    <value xml:space="preserve">Selecione o tipo de pesquisa</value>
+  </data>
+  <data name="NoResult.Text" lastModified="2016-07-21 15:48:31">
+    <value xml:space="preserve">Nenhum resultado encontrado</value>
+  </data>
+  <data name="Placeholder.Text" lastModified="2016-07-21 15:48:31">
+    <value xml:space="preserve">Busca...</value>
+  </data>
+  <data name="Search.Text" lastModified="2016-07-21 15:48:31">
+    <value xml:space="preserve">Pesquisa</value>
+  </data>
+  <data name="SearchClearQuery.Text" lastModified="2016-07-21 15:48:31">
+    <value xml:space="preserve">Texto de limpar pesquisa</value>
+  </data>
+  <data name="SeeMoreResults.Text" lastModified="2016-07-21 15:48:31">
+    <value xml:space="preserve">Ver mais resultados</value>
+  </data>
+  <data name="Site.Text" lastModified="2016-07-21 15:48:31">
+    <value xml:space="preserve">Local</value>
+  </data>
+  <data name="Site.ToolTip" lastModified="2016-07-21 15:48:31">
+    <value xml:space="preserve">Site de busca</value>
+  </data>
+  <data name="URL.Text" lastModified="2016-07-21 15:48:31">
+    <value xml:space="preserve">http://www.google.com/custom?q=[TEXT]&amp;amp;sa=Search&amp;amp;client=pub-9770992166002654&amp;amp;forid=1&amp;amp;ie=ISO-8859-1&amp;amp;oe=ISO-8859-1&amp;amp;cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%23336699%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3A336699%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BFORID%3A1&amp;amp;hl=en&amp;amp;sitesearch=[DOMAIN]</value>
+  </data>
+  <data name="Web.Text" lastModified="2016-07-21 15:48:31">
+    <value xml:space="preserve">Web</value>
+  </data>
+  <data name="Web.ToolTip" lastModified="2016-07-21 15:48:31">
+    <value xml:space="preserve">Pesquisa Google na Web</value>
+  </data>
+</root>

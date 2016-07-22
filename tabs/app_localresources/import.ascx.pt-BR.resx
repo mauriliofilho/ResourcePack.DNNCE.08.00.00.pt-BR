@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="cmdImport.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Importação</value>
+  </data>
+  <data name="ControlTitle_importtab.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Página de importação</value>
+  </data>
+  <data name="Error.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Ocorreu um erro durante a importação.</value>
+  </data>
+  <data name="InsertAfter.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Após</value>
+  </data>
+  <data name="InsertAtEnd.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Adicionar ao final</value>
+  </data>
+  <data name="InsertBefore.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Antes</value>
+  </data>
+  <data name="InsertPosition.Help" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Selecione a página que você deseja nesta página a ser inserido antes ou depois.</value>
+  </data>
+  <data name="InsertPosition.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Inserir página:</value>
+  </data>
+  <data name="ModeAdd.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Criar uma nova página</value>
+  </data>
+  <data name="ModeReplace.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Substituir a página atual</value>
+  </data>
+  <data name="ModeSettings.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Editar página importada</value>
+  </data>
+  <data name="ModeView.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Ver página importada</value>
+  </data>
+  <data name="ModuleHelp.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">&lt;h1&gt;Página de importação&lt;/h1&gt;&lt;p&gt;;Os administradores podem importar o conteúdo para a página especificada&lt;/p&gt;</value>
+  </data>
+  <data name="NoTabsInTemplate.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Modelo não contém quaisquer páginas.</value>
+  </data>
+  <data name="NotCorrectType.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">O arquivo de importação especificado não é do tipo correto para esta página.</value>
+  </data>
+  <data name="NotValidXml.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">O arquivo selecionado não contém uma estrutura XML válida.</value>
+  </data>
+  <data name="plFolder.Help" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Selecione a pasta de importação.</value>
+  </data>
+  <data name="plFolder.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Pasta:</value>
+  </data>
+  <data name="plMode.Help" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Selecione o modo de importação.</value>
+  </data>
+  <data name="plMode.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Modo de importação:</value>
+  </data>
+  <data name="plParentTab.Help" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Selecione a página que você quer esta página para ser um filho de.</value>
+  </data>
+  <data name="plParentTab.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Página pai</value>
+  </data>
+  <data name="plRedirect.Help" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Selecione onde redirecionar para na importação bem sucedida.</value>
+  </data>
+  <data name="plRedirect.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Modo de redirecionamento</value>
+  </data>
+  <data name="plTabName.Help" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Digite um nome para a nova página.</value>
+  </data>
+  <data name="plTabName.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Nome da página:</value>
+  </data>
+  <data name="plTemplate.Help" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Selecione o modelo de página para importar.</value>
+  </data>
+  <data name="plTemplate.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Modelo:</value>
+  </data>
+  <data name="Root.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Raiz</value>
+  </data>
+  <data name="SpecifyFile.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Por favor, especifique o modelo a ser importado.</value>
+  </data>
+  <data name="SpecifyMode.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Por favor, especifique o modo de importação.</value>
+  </data>
+  <data name="SpecifyName.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Você deve especificar um nome para a página.</value>
+  </data>
+  <data name="TabExists.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Este nome de página já está sendo usado para outra página no mesmo nível de hierarquia da página.</value>
+  </data>
+  <data name="TabRecycled.Text" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Existe uma página com este nome na lixeira.  Para restaurar esta página use a lixeira.</value>
+  </data>
+  <data name="valTemplate.ErrorMessage" lastModified="2016-07-21 15:52:14">
+    <value xml:space="preserve">Por favor, selecione um modelo.</value>
+  </data>
+</root>

@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AllCategories.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Todas as categorias</value>
+  </data>
+  <data name="Cancel.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Cancelar</value>
+  </data>
+  <data name="Category.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Categoria</value>
+  </data>
+  <data name="ClearSearchModules.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Clara</value>
+  </data>
+  <data name="cmdCancelAdd.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Cancelar</value>
+  </data>
+  <data name="cmdConfirmAdd.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Proceder</value>
+  </data>
+  <data name="DragModuleToolTip.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Arraste o mouse para adicionar este módulo para a página abaixo</value>
+  </data>
+  <data name="LoadingModule.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Carregando o módulo (s)</value>
+  </data>
+  <data name="LoadingModuleOnNoDefaultCategory.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Sem módulos disponíveis em '{0}', busca em 'todos'</value>
+  </data>
+  <data name="LoadingTabModule.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">&lt;b style="color:#fff"&gt;Para começar&lt;/b&gt;, Por favor, &lt;b style="color:#fff"&gt;Selecione o Site e a página&lt;/b&gt; primeiro</value>
+  </data>
+  <data name="LoadingTabModuleCE.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">&lt;b style="color:#fff"&gt;Para começar&lt;/b&gt;, Por favor, &lt;b style="color:#fff"&gt;Selecione a página&lt;/b&gt; primeiro</value>
+  </data>
+  <data name="NoModule.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Sem módulos disponíveis</value>
+  </data>
+  <data name="Pane.Add.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Adicionar para {0}</value>
+  </data>
+  <data name="Pane.AddBottom.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Adicionar à parte inferior de {0}</value>
+  </data>
+  <data name="Pane.AddTop.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Adicionar {0} parte superior</value>
+  </data>
+  <data name="PermissionEdit.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Só editores de página</value>
+  </data>
+  <data name="PermissionView.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Mesmo que a página</value>
+  </data>
+  <data name="SearchModules.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Pesquisa</value>
+  </data>
+  <data name="SelectPage.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Selecione a página</value>
+  </data>
+  <data name="SelectSite.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Selecione o Site</value>
+  </data>
+  <data name="ShareableWarningAlternate.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Se você está confuso com esta mensagem ou está trabalhando em um site que não pode tolerar qualquer ruptura, você deve clique em cancelar e em contato com a &amp;lt;a href="mailto:support@dnnsoftware.com"&amp;gt;Equipe de apoio DNN&amp;lt;/a&amp;gt;.</value>
+  </data>
+  <data name="ShareableWarningContent.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Você está tentando adicionar uma referência a este módulo que existe em outro site neste grupo. Este módulo pode ou pode não suportar o compartilhamento entre vários locais - não declarar explicitamente de qualquer maneira, se faz.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;Se você tem certeza que ele faz, ou se sua intenção é testar sua capacidade de fazê-lo, então prosseguir com cautela e estar ciente de que determinadas funcionalidades do módulo - ou mesmo todo o módulo - podem não funcionar correctamente nesta configuração.</value>
+  </data>
+  <data name="ShareableWarningHeader.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">&amp;lt;span style="color: red;"&amp;gt;Aviso&amp;lt;/span&amp;gt;: Este módulo pode não suportar o compartilhamento entre sites.</value>
+  </data>
+  <data name="ShareableWarningTitle.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Isso pode não funcionar</value>
+  </data>
+  <data name="Tool.AddExistingModule.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Adicionar módulo existente</value>
+  </data>
+  <data name="Tool.AddNewModule.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Adicionar novo módulo</value>
+  </data>
+  <data name="Tool.AddNewPage.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Adicionar nova página</value>
+  </data>
+  <data name="Tool.AddToBookmarks.ToolTip" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Adicionar favoritos</value>
+  </data>
+  <data name="Tool.Admin.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Admin</value>
+  </data>
+  <data name="Tool.AdvancedSettings.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Configurações avançadas</value>
+  </data>
+  <data name="Tool.BookmarkedSettings.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Configurações de favoritos</value>
+  </data>
+  <data name="Tool.ClearCache.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Limpar Cache</value>
+  </data>
+  <data name="Tool.CloseEditMode.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Modo de edição de perto</value>
+  </data>
+  <data name="Tool.CommonSettings.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Configurações comuns</value>
+  </data>
+  <data name="Tool.CopyPage.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Página de cópia</value>
+  </data>
+  <data name="Tool.CopyPermissionsToChildren.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Copiar as permissões para crianças</value>
+  </data>
+  <data name="Tool.CopyPermissionsToChildrenPageEditor.Confirm" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">As permissões serão substituídas para todas as crianças desta página.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;Tem certeza que deseja continuar?</value>
+  </data>
+  <data name="Tool.CreateModule.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Criar módulo</value>
+  </data>
+  <data name="Tool.DeletePage.ConfirmText" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Tem certeza que deseja excluir esta página e suas páginas de criança?</value>
+  </data>
+  <data name="Tool.DeletePage.Special.ToolTip" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Não é possível excluir esta página porque é um sistema de página ou a página está em uso.  Consulte Configurações de Site &gt; Configurações Avançadas &gt; Page Management ou contate o administrador.</value>
+  </data>
+  <data name="Tool.DeletePage.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Excluir página</value>
+  </data>
+  <data name="Tool.EditPage.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Editar página</value>
+  </data>
+  <data name="Tool.EditThisPage.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Editar esta página</value>
+  </data>
+  <data name="Tool.ExportPage.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Exportar página</value>
+  </data>
+  <data name="Tool.FindModules.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Encontrar mais módulos</value>
+  </data>
+  <data name="Tool.Help.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Ajuda</value>
+  </data>
+  <data name="Tool.Help.ToolTip" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Ajuda on-line</value>
+  </data>
+  <data name="Tool.Host.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Acolhimento</value>
+  </data>
+  <data name="Tool.ImportPage.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Página de importação</value>
+  </data>
+  <data name="Tool.LayoutMode.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Vista no modo de Layout</value>
+  </data>
+  <data name="Tool.MakeCopy.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Faça uma cópia</value>
+  </data>
+  <data name="Tool.ManageLocalization.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Localização de página</value>
+  </data>
+  <data name="Tool.ManageRoles.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Gerenciar funções</value>
+  </data>
+  <data name="Tool.ManageTemplate.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Aparência da página</value>
+  </data>
+  <data name="Tool.ManageUsers.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Gerenciar usuários</value>
+  </data>
+  <data name="Tool.MobilePreview.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Visualização móvel</value>
+  </data>
+  <data name="Tool.Modules.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Módulos</value>
+  </data>
+  <data name="Tool.NewUser.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Adicionar novo usuário</value>
+  </data>
+  <data name="Tool.PagePermissions.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Página de permissões</value>
+  </data>
+  <data name="Tool.Pages.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Páginas</value>
+  </data>
+  <data name="Tool.PageSettings.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Configurações de página</value>
+  </data>
+  <data name="Tool.PublishPage.ConfirmHeader" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Página de tornar visível a todos os visitantes?</value>
+  </data>
+  <data name="Tool.PublishPage.ConfirmText" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Mudar esta página para público tornará visível para todos os usuários do site, incluindo os visitantes não registados.&amp;lt;br&amp;gt;Você quer continuar?</value>
+  </data>
+  <data name="Tool.PublishPage.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Tornar público</value>
+  </data>
+  <data name="Tool.RecycleApp.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Reciclar o domínio de aplicativo</value>
+  </data>
+  <data name="Tool.RemoveFromBookmarks.ToolTip" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Remover dos favoritos</value>
+  </data>
+  <data name="Tool.StayInEditMode.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Permanecer no modo de edição</value>
+  </data>
+  <data name="Tool.SwitchLanguages.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Mudar o idioma da interface:</value>
+  </data>
+  <data name="Tool.SwitchSites.Button" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Ir</value>
+  </data>
+  <data name="Tool.SwitchSites.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Alternar Sites:</value>
+  </data>
+  <data name="Tool.Tools.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Ferramentas</value>
+  </data>
+  <data name="Tool.UnpublishPage.ConfirmHeader" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Fazer a página visível apenas para administradores?</value>
+  </data>
+  <data name="Tool.UnpublishPage.ConfirmText" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Mudar esta página para meios privados, que somente será visível para os administradores. Todos os outros usuários serão incapazes de ver a página e eles receberão um prompt de login, se eles seguem um link existente para esta página.&lt;br&gt;Você quer continuar?</value>
+  </data>
+  <data name="Tool.UnpublishPage.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Fazer privada</value>
+  </data>
+  <data name="Tool.UploadFile.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Upload de arquivo</value>
+  </data>
+  <data name="Tool.Users.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Usuários</value>
+  </data>
+  <data name="Upgrade.Text" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Atualização</value>
+  </data>
+  <data name="Upgrade.ToolTip" lastModified="2016-07-20 02:26:43">
+    <value xml:space="preserve">Clique aqui para obter a versão mais recente</value>
+  </data>
+</root>

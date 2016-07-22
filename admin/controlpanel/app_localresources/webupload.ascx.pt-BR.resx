@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="cmdRemove.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Remover</value>
+  </data>
+  <data name="cmdReturn.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Retornar</value>
+  </data>
+  <data name="cmdUpload.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Salvar arquivo</value>
+  </data>
+  <data name="Container.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Pacote do contêiner</value>
+  </data>
+  <data name="ControlTitle_edit.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Upload de arquivo</value>
+  </data>
+  <data name="ControlTitle_file manager.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Upload de arquivo</value>
+  </data>
+  <data name="ControlTitle_install.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Instalar a extensão</value>
+  </data>
+  <data name="Decompress.Help" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Marque esta caixa para descomprimir qualquer arquivo que você enviar.</value>
+  </data>
+  <data name="Decompress.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Descomprimir arquivos ZIP</value>
+  </data>
+  <data name="File.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Arquivos de conteúdo</value>
+  </data>
+  <data name="FileSizeRestriction.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Seu site está configurado com um tamanho de arquivo máximo upload de {0} MB.</value>
+  </data>
+  <data name="FileUploadSuccess.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">{0} carregado com sucesso</value>
+  </data>
+  <data name="HostRoot.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Raiz de acolhimento</value>
+  </data>
+  <data name="InvalidExt.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Extensão de arquivo inválido para </value>
+  </data>
+  <data name="LanguagePack.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Pacote de idioma</value>
+  </data>
+  <data name="LogTitle.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Recurso carregar toras</value>
+  </data>
+  <data name="Module.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Módulo personalizado</value>
+  </data>
+  <data name="ModuleHelp.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">&lt;h1&gt;Sobre Web Upload&lt;/h1&gt;&lt;p&gt;Permite que você fazer upload de arquivos para o site.&lt;/p&gt;</value>
+  </data>
+  <data name="Multiple.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Fazer upload de vários arquivos</value>
+  </data>
+  <data name="NoFile.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Você precisa selecionar um arquivo para carregar primeiro.  Clique no botão procurar para localizar o arquivo no seu sistema de arquivos local.</value>
+  </data>
+  <data name="plBrowse.Help" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Clique no botão Browse para navegar o seu sistema de arquivo para o arquivo que você deseja carregar.</value>
+  </data>
+  <data name="plBrowse.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Procurar arquivos</value>
+  </data>
+  <data name="plFolder.Help" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Selecione a pasta de destino.</value>
+  </data>
+  <data name="plFolder.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Pasta</value>
+  </data>
+  <data name="PortalRoot.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Raiz do site</value>
+  </data>
+  <data name="Skin.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Pacote de tema</value>
+  </data>
+  <data name="UploadTypeContainer.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Pacote de contêiner do legado de carregamento</value>
+  </data>
+  <data name="UploadTypeFile.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Upload de arquivo</value>
+  </data>
+  <data name="UploadTypeLanguagePack.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Instalar pacote de idioma</value>
+  </data>
+  <data name="UploadTypeModule.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Instalar o novo módulo</value>
+  </data>
+  <data name="UploadTypeSkin.Text" lastModified="2016-07-20 02:48:32">
+    <value xml:space="preserve">Instalar o pacote de tema de legado</value>
+  </data>
+</root>
