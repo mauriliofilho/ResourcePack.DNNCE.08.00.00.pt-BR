@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Add.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Adicionar um novo URL</value>
+  </data>
+  <data name="Cancel.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Selecione um arquivo existente</value>
+  </data>
+  <data name="Delete.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Excluir o URL seleccionado da lista&amp;lt;br&amp;gt;</value>
+  </data>
+  <data name="File.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Nome do arquivo:&amp;lt;br&amp;gt;</value>
+  </data>
+  <data name="FileType.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">(Um arquivo em seu Site)</value>
+  </data>
+  <data name="Folder.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Local do arquivo:&amp;lt;br&amp;gt;</value>
+  </data>
+  <data name="Image.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Imagem:&amp;lt;br&amp;gt;</value>
+  </data>
+  <data name="ImageType.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Imagem do sistema</value>
+  </data>
+  <data name="Log.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Login do usuário, data e hora para cada clique Link&amp;lt;br&amp;gt;</value>
+  </data>
+  <data name="NewWindow.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Abrir Link em nova janela do navegador&amp;lt;br&amp;gt;</value>
+  </data>
+  <data name="NoneType.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Nenhum</value>
+  </data>
+  <data name="NoPermission.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Você não tem permissão para ver os arquivos neste site.</value>
+  </data>
+  <data name="NoUser.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Nome de usuário digitado não coincide com um usuário neste site.</value>
+  </data>
+  <data name="NoWritePermission.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Você não tem permissão para fazer upload de arquivos para este site.</value>
+  </data>
+  <data name="Root.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Raiz</value>
+  </data>
+  <data name="Save.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Upload de arquivo selecionado</value>
+  </data>
+  <data name="Select.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Selecione um URL existente</value>
+  </data>
+  <data name="Tab.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Página:</value>
+  </data>
+  <data name="TabType.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">(Uma página no seu Site)</value>
+  </data>
+  <data name="Track.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Controlar o número de vezes que este Link é clicado.&amp;lt;br&amp;gt;</value>
+  </data>
+  <data name="Type.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Tipo de link:</value>
+  </data>
+  <data name="Upload.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Upload de arquivo novo</value>
+  </data>
+  <data name="UploadError.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">{1} de tipo de arquivo não é válido neste contexto. Tipos de arquivos válidos incluem: {0}</value>
+  </data>
+  <data name="URL.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Localização (digite o endereço do Link):&amp;lt;br&amp;gt;</value>
+  </data>
+  <data name="URLType.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">URL (um Link para um recurso externo)</value>
+  </data>
+  <data name="User.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Digite o nome de usuário de um membro do seu Site:&amp;lt;br&amp;gt;</value>
+  </data>
+  <data name="UserType.Text" lastModified="2016-07-26 02:32:45">
+    <value xml:space="preserve">Usuário (um membro do seu Site)</value>
+  </data>
+</root>

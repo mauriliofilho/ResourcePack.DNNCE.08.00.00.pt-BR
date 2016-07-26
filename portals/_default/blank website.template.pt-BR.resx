@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="LocalizedTemplateName.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Site em branco</value>
+  </data>
+  <data name="PortalDescription.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Modelo em branco</value>
+  </data>
+  <data name="RoleGroup.Description.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Um grupo de função fictícia que representa as funções globais</value>
+  </data>
+  <data name="Setting.DefaultLanguage.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">en-US</value>
+  </data>
+  <data name="Setting.FooterText.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Copyright [ano] por DNN Corp</value>
+  </data>
+  <data name="Tab.404ErrorPage..Module.Content.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Desculpe, a página que você está procurando não pode ser encontrada e pode ter sido removida, teve seu nome alterado ou está temporariamente indisponível. É recomendável que você começa de novo na página principal. Sinta-se livre para contatar-nos se o problema persistir ou se você definitivamente não pode encontrar o que você está procurando.</value>
+  </data>
+  <data name="Tab.404ErrorPage..Module.Title.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Página não encontrada</value>
+  </data>
+  <data name="Tab.404ErrorPage.Content.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Página de erro 404</value>
+  </data>
+  <data name="Tab.404ErrorPage.Title.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Página de erro 404</value>
+  </data>
+  <data name="Tab.About.RightPane.OtherModule.Content.8.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Compartilhe o seu feedback</value>
+  </data>
+  <data name="Tab.DigitalAssetsManagement.Title.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Gerenciamento de arquivos</value>
+  </data>
+  <data name="Tab.Extensions.Title.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Extensões</value>
+  </data>
+  <data name="Tab.Home.Name.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Casa</value>
+  </data>
+  <data name="Tab.MyFriends.Title.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Meus amigos</value>
+  </data>
+  <data name="Tab.MyMessages.Title.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Minhas mensagens</value>
+  </data>
+  <data name="Tab.MyProfile.Title.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Meu perfil</value>
+  </data>
+  <data name="Tab.PortalAdministration.Title.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Administração de site</value>
+  </data>
+  <data name="Tab.SearchAdmin.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Pesquisa de Admin</value>
+  </data>
+  <data name="Tab.SearchAdmin.Description.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Pesquisa de Admin</value>
+  </data>
+  <data name="Tab.SearchResultsCE.Title.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Resultados da pesquisa</value>
+  </data>
+  <data name="Tab.SecurityRoles.Title.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Funções de segurança</value>
+  </data>
+  <data name="Tab.SiteSettings.Title.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Configurações do site</value>
+  </data>
+  <data name="Tab.Taxonomy.Title.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Taxonomia</value>
+  </data>
+  <data name="Tab.UserAccounts.Title.Text" lastModified="2016-07-26 02:34:49">
+    <value xml:space="preserve">Contas de usuário</value>
+  </data>
+</root>

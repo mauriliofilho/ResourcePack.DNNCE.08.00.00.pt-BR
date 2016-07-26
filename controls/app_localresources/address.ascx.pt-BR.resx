@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CellRequired.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">É necessário o número de telefone celular.</value>
+  </data>
+  <data name="CityRequired.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Cidade é necessária.</value>
+  </data>
+  <data name="CountryRequired.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">País é necessária.</value>
+  </data>
+  <data name="FaxRequired.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">É necessário o número de fax.</value>
+  </data>
+  <data name="plCell.Help" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Digite o número do telefone celular.</value>
+  </data>
+  <data name="plCell.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Celular:</value>
+  </data>
+  <data name="plCity.Help" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Entre na cidade.</value>
+  </data>
+  <data name="plCity.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Cidade:</value>
+  </data>
+  <data name="plCountry.Help" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Entra no país.</value>
+  </data>
+  <data name="plCountry.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">País:</value>
+  </data>
+  <data name="plFax.Help" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Digite o número de fax.</value>
+  </data>
+  <data name="plFax.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Fax:</value>
+  </data>
+  <data name="plPostal.Help" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Introduza o código postal.</value>
+  </data>
+  <data name="plPostal.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Código postal:</value>
+  </data>
+  <data name="plProvince.Help" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Selecione a província na lista.</value>
+  </data>
+  <data name="plProvince.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Província:</value>
+  </data>
+  <data name="plRegion.Help" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Digite a região.</value>
+  </data>
+  <data name="plRegion.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Região:</value>
+  </data>
+  <data name="plState.Help" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Selecione o estado na lista.</value>
+  </data>
+  <data name="plState.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Estado:</value>
+  </data>
+  <data name="plStreet.Help" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Digite a rua parte do seu endereço. Por exemplo, a rua principal 1.</value>
+  </data>
+  <data name="plStreet.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Rua:</value>
+  </data>
+  <data name="plTelephone.Help" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Digite o número de telefone.</value>
+  </data>
+  <data name="plTelephone.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Telefone:</value>
+  </data>
+  <data name="plUnit.Help" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Digite o número do apartamento ou unidade.</value>
+  </data>
+  <data name="plUnit.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Unidade #:</value>
+  </data>
+  <data name="plZip.Help" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Digite o CEP.</value>
+  </data>
+  <data name="plZip.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Código Postal:</value>
+  </data>
+  <data name="PostalRequired.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Código postal é necessário.</value>
+  </data>
+  <data name="ProvinceRequired.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">A província é necessária.</value>
+  </data>
+  <data name="RegionRequired.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Região é necessária.</value>
+  </data>
+  <data name="StateRequired.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Estado é necessário.</value>
+  </data>
+  <data name="StreetRequired.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Rua é necessária.</value>
+  </data>
+  <data name="TelephoneRequired.Text" lastModified="2016-07-26 02:33:17">
+    <value xml:space="preserve">Número de telefone é necessário.</value>
+  </data>
+</root>

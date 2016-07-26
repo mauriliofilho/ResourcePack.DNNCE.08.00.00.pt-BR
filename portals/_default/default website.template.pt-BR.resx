@@ -1,0 +1,913 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="LocalizedTemplateName.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Site padrão</value>
+  </data>
+  <data name="PortalDescription.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Modelo de site padrão</value>
+  </data>
+  <data name="RoleGroup.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Um grupo de função fictícia que representa as funções globais</value>
+  </data>
+  <data name="Setting.DefaultLanguage.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">en-US</value>
+  </data>
+  <data name="Setting.FooterText.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Copyright [ano] por DNN Corp</value>
+  </data>
+  <data name="Tab.404ErrorPage..Module.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Desculpe, a página que você está procurando não pode ser encontrada e pode ter sido removida, teve seu nome alterado ou está temporariamente indisponível. É recomendável que você começa de novo na página principal. Sinta-se livre para contatar-nos se o problema persistir ou se você definitivamente não pode encontrar o que você está procurando.</value>
+  </data>
+  <data name="Tab.404ErrorPage..Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Página não encontrada</value>
+  </data>
+  <data name="Tab.404ErrorPage.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Página de erro 404</value>
+  </data>
+  <data name="Tab.404ErrorPage.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Página de erro 404</value>
+  </data>
+  <data name="Tab.ActivityFeed.CenterPane.JournalModule.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Diário</value>
+  </data>
+  <data name="Tab.ActivityFeed.CenterPane.ProfileModule.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">ViewProfile</value>
+  </data>
+  <data name="Tab.ActivityFeed.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Feed de actividade</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterCenterPane.Module.Content.0.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">História</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterCenterPane.Module.Content.1.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Carreiras</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterCenterPane.Module.Content.2.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Legal</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterCenterPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Companhia</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterLeftOuterPane.Module.Content.0.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Montanha</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterLeftOuterPane.Module.Content.1.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gravidade</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterLeftOuterPane.Module.Content.2.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Estrada</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterLeftOuterPane.Module.Content.3.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Cidade</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterLeftOuterPane.Module.Content.4.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Junior</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterLeftOuterPane.Module.Content.5.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Sujeira / rua</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterLeftOuterPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Produtos</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterLeftPane.Module.Content.0.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Perguntas Freqüentes</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterLeftPane.Module.Content.1.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Manuais de moto</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterLeftPane.Module.Content.2.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Catálogos de produtos</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterLeftPane.Module.Content.3.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Arquivo de produto</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterLeftPane.Module.Content.4.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Suporte ao produto</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterLeftPane.Module.Content.5.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Garantia de bicicleta</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterLeftPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Suporte ao cliente</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterRightOuterPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Conectar-se</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterRightPane.Module.Content.0.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Demais ciclos, Inc.</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterRightPane.Module.Content.1.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">
+3457 W. rua em algum lugar.
+Em algum lugar, CA 12345</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterRightPane.Module.Content.2.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">
+Telefone: (555) 555-4563</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterRightPane.Module.Content.3.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">
+Fax: (555) 555-4564</value>
+  </data>
+  <data name="Tab.ActivityFeed.FooterRightPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Contate-nos</value>
+  </data>
+  <data name="Tab.ActivityFeed.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Feed de actividade</value>
+  </data>
+  <data name="Tab.ActivityFeed.RightPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Diretório de membros</value>
+  </data>
+  <data name="Tab.ActivityFeed.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Feed de actividade</value>
+  </data>
+  <data name="Tab.AdvUrlManagement.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gestão avançada de URL</value>
+  </data>
+  <data name="Tab.AdvUrlManagement.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerencie configurações avançadas de url.</value>
+  </data>
+  <data name="Tab.ContentStaging.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Plataforma de conteúdo</value>
+  </data>
+  <data name="Tab.ContentStaging.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerenciar o preparo de conteúdo para seu Site</value>
+  </data>
+  <data name="Tab.ContentStaging.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Plataforma de conteúdo</value>
+  </data>
+  <data name="Tab.DevicePreview.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerenciamento de visualização de dispositivos</value>
+  </data>
+  <data name="Tab.DevicePreview.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerenciamento de visualização de dispositivos</value>
+  </data>
+  <data name="Tab.DevicePreview.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerenciamento de visualização de dispositivos.</value>
+  </data>
+  <data name="Tab.DevicePreview.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerenciamento de visualização de dispositivos</value>
+  </data>
+  <data name="Tab.DigitalAssetsManagement.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerenciamento de arquivos</value>
+  </data>
+  <data name="Tab.DigitalAssetsManagement.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerenciamento de arquivos</value>
+  </data>
+  <data name="Tab.DigitalAssetsManagement.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerencie ativos dentro do portal.</value>
+  </data>
+  <data name="Tab.DigitalAssetsManagement.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerenciamento de arquivos</value>
+  </data>
+  <data name="Tab.DigitalAssetsManagement.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerenciamento de arquivos</value>
+  </data>
+  <data name="Tab.Extensions.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Extensões</value>
+  </data>
+  <data name="Tab.Extensions.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Extensões</value>
+  </data>
+  <data name="Tab.Extensions.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Instalar, adicionar, modificar e excluir extensões, tais como módulos, temas e pacotes de idiomas.</value>
+  </data>
+  <data name="Tab.Extensions.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Extensões</value>
+  </data>
+  <data name="Tab.Extensions.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Extensões</value>
+  </data>
+  <data name="Tab.Home.CompanyIntro.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">DNN (anteriormente DotNetNuke) fornece um pacote de soluções para criar experiências online ricas e gratificantes para clientes, parceiros e funcionários.  DNN produtos e tecnologia são a Fundação para 750.000 + websites em todo o mundo.  Além de nosso comercial solutiosn CMS e comunidade Social, DNN é o mordomo do DotNetNuke Open Source Project.</value>
+  </data>
+  <data name="Tab.Home.Header.Content" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">DNN&amp;lt;sup&amp;gt;®&amp;lt;/sup&amp;gt; torna mais fácil para você instalar e usar o DNN&amp;lt;sup&amp;gt;®&amp;lt;/sup&amp;gt; Platform.  Temos várias opções para atender às suas necessidades, se você quiser experimentar o CMS na nuvem, instalá-lo em seu próprio servidor ou usá-lo em seu desktop para o desenvolvimento.  Você é só um clique longe começando com DNN&amp;lt;sup&amp;gt;®&amp;lt;/sup&amp;gt;.</value>
+  </data>
+  <data name="Tab.Home.Header.Title" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Toda jornada começa com o primeiro passo. </value>
+  </data>
+  <data name="Tab.Home.Main.Blog.Link" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">http://www.dnnsoftware.com/Community-blog?utm_source=DNN-Platform-install&amp;amp;utm_medium=Web-link&amp;amp;utm_term=blog&amp;amp;utm_content=7.3-Tile&amp;amp;utm_campaign=DNN-Platform-Home</value>
+  </data>
+  <data name="Tab.Home.Main.Blog.SubLink.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Leia o Blog da Comunidade</value>
+  </data>
+  <data name="Tab.Home.Main.Blog.Title" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Blog</value>
+  </data>
+  <data name="Tab.Home.Main.Blog.Tooltip" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Informativo e divertido, desafiador e educacionais, o Blog da Comunidade DNN sempre tem novos conteúdos, novas idéias e novas opiniões.  Mergulhar em.</value>
+  </data>
+  <data name="Tab.Home.Main.Forums.Link" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">http://www.dnnsoftware.com/forums?utm_source=DNN-Platform-install&amp;amp;utm_medium=Web-link&amp;amp;utm_term=forums&amp;amp;utm_content=7.3-Tile&amp;amp;utm_campaign=DNN-Platform-Home</value>
+  </data>
+  <data name="Tab.Home.Main.Forums.SubLink.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Visite o fórum do DNN</value>
+  </data>
+  <data name="Tab.Home.Main.Forums.Title" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Fóruns</value>
+  </data>
+  <data name="Tab.Home.Main.Forums.Tooltip" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">O antigo Fórum Romano foi um palco para discursos públicos, transações comerciais e jogos de gladiadores.  O fórum DNN é tão importante para participar.</value>
+  </data>
+  <data name="Tab.Home.Main.LeaderBoard.Link" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">http://www.dnnsoftware.com/leaderboard?utm_source=DNN-Platform-install&amp;amp;utm_medium=Web-link&amp;amp;utm_term=leaderboard&amp;amp;utm_content=7.3-Tile&amp;amp;utm_campaign=DNN-Platform-Home</value>
+  </data>
+  <data name="Tab.Home.Main.LeaderBoard.SubLink.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Verifique a tabela de classificação</value>
+  </data>
+  <data name="Tab.Home.Main.LeaderBoard.Title" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Tabela de classificação</value>
+  </data>
+  <data name="Tab.Home.Main.LeaderBoard.Tooltip" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Contribuições ganham reconhecimento.  Veja onde você pousar na tabela de classificação.  Contribuir um pouco, outros saltam na corrida.  Todo mundo adora uma competição amigável.</value>
+  </data>
+  <data name="Tab.Home.Main.OnlineHelp.Link" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">http://www.dnnsoftware.com/help?utm_source=DNN-Platform-install&amp;amp;utm_medium=Web-link&amp;amp;utm_term=Online-Help&amp;amp;utm_content=7.3-Tile&amp;amp;utm_campaign=DNN-Platform-Home</value>
+  </data>
+  <data name="Tab.Home.Main.OnlineHelp.SubLink.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Exibir ajuda on-line</value>
+  </data>
+  <data name="Tab.Home.Main.OnlineHelp.Title" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Ajuda on-line</value>
+  </data>
+  <data name="Tab.Home.Main.OnlineHelp.Tooltip" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Você só não pode sobreviver sem uma pequena ajuda de seus amigos.  Ou uma pequena ajuda de extensa biblioteca DNN.</value>
+  </data>
+  <data name="Tab.Home.Main.QA.Link" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">http://www.dnnsoftware.com/Answers?utm_source=DNN-Platform-install&amp;amp;utm_medium=Web-link&amp;amp;utm_term=q%26A&amp;amp;utm_content=7.3-Tile&amp;amp;utm_campaign=DNN-Platform-Home</value>
+  </data>
+  <data name="Tab.Home.Main.QA.SubLink.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Visite Q&amp;amp;A</value>
+  </data>
+  <data name="Tab.Home.Main.QA.Title" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Q &amp;amp; A</value>
+  </data>
+  <data name="Tab.Home.Main.QA.Tooltip" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Você não pode chegar a este ponto sem algumas perguntas.  Você pode até ter algumas respostas para contribuir.  De qualquer forma, você vai para a página Q&amp;amp;A.</value>
+  </data>
+  <data name="Tab.Home.Main.Shop.Link" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">http://Store.dnnsoftware.com/?utm_source=DNN-Platform-install&amp;amp;utm_medium=Web-link&amp;amp;utm_term=Shop&amp;amp;utm_content=7.3-Tile&amp;amp;utm_campaign=DNN-Platform-Home</value>
+  </data>
+  <data name="Tab.Home.Main.Shop.SubLink.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Loja da loja DNN</value>
+  </data>
+  <data name="Tab.Home.Main.Shop.Title" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Loja</value>
+  </data>
+  <data name="Tab.Home.Main.Shop.Tooltip" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Você poderia escrever muita novo código para fazer este novo site grande.  Ou você pode apenas comprar o seu caminho para o sucesso na loja DNN.  Você vai chegar lá mais rápido.</value>
+  </data>
+  <data name="Tab.Home.Main.Title" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Participe da Comunidade para interagir e aprender</value>
+  </data>
+  <data name="Tab.Home.Main.Videos.Link" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">http://www.dnnsoftware.com/videos?utm_source=DNN-Platform-install&amp;amp;utm_medium=Web-link&amp;amp;utm_term=videos&amp;amp;utm_content=7.3-Tile&amp;amp;utm_campaign=DNN-Platform-Home</value>
+  </data>
+  <data name="Tab.Home.Main.Videos.SubLink.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Ver vídeos de DNN</value>
+  </data>
+  <data name="Tab.Home.Main.Videos.Title" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Vídeos</value>
+  </data>
+  <data name="Tab.Home.Main.Videos.Tooltip" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Todo mundo é um aprendiz visual.  O melhor é que você pode assistir o vídeo on-line e ainda estar funcionando.  DNN videoteca é um vasto tesouro de informações.</value>
+  </data>
+  <data name="Tab.Home.Main.Webinars.Link" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">http://www.dnnsoftware.com/about/Resources/webinars?utm_source=DNN-Platform-install&amp;amp;utm_medium=Web-link&amp;amp;utm_term=webinars&amp;amp;utm_content=7.3-Tile&amp;amp;utm_campaign=DNN-Platform-Home</value>
+  </data>
+  <data name="Tab.Home.Main.Webinars.SubLink.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Assistir a um Webinar DNN</value>
+  </data>
+  <data name="Tab.Home.Main.Webinars.Title" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Webinars</value>
+  </data>
+  <data name="Tab.Home.Main.Webinars.Tooltip" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Entre no mundo de Webinars DNN onde pessoas conhecedoras de partilham os seus conhecimentos.  Isso é um monte de conhecimento, e aí é para você aprender.</value>
+  </data>
+  <data name="Tab.Home.Main.Wikis.Link" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">http://www.dnnsoftware.com/wiki?utm_source=DNN-Platform-install&amp;amp;utm_medium=Web-link&amp;amp;utm_term=wiki&amp;amp;utm_content=7.3-Tile&amp;amp;utm_campaign=DNN-Platform-Home</value>
+  </data>
+  <data name="Tab.Home.Main.Wikis.SubLink.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Leia o Wiki DNN</value>
+  </data>
+  <data name="Tab.Home.Main.Wikis.Title" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Wiki</value>
+  </data>
+  <data name="Tab.Home.Main.Wikis.Tooltip" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">O Wiki do DNN está expandindo continuamente, como o universo.  Ao contrário do universo, você pode visitá-lo todos os Wiki e fazer um dente com a sua contribuição.</value>
+  </data>
+  <data name="Tab.Home.PageName.Content" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Casa</value>
+  </data>
+  <data name="Tab.Home.PageName.Title" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Casa</value>
+  </data>
+  <data name="Tab.Home.Product.Content.Link" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">http://www.dnnsoftware.com/Solutions/evoq-Content-Management-System?utm_source=DNN-Platform-install&amp;amp;utm_medium=Web-link&amp;amp;utm_term=evoq-Content&amp;amp;utm_content=7.3-banner&amp;amp;utm_campaign=DNN-Platform-Home</value>
+  </data>
+  <data name="Tab.Home.Product.Content.Link.Title" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">CRIAR E GERENCIAR CONTEÚDO</value>
+  </data>
+  <data name="Tab.Home.Product.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Conteúdo mais rico, mais forte&amp;lt;br&amp;gt;segurança e melhorado&amp;lt;br&amp;gt;SEO é no coração&amp;lt;br&amp;gt;a ponta dos dedos</value>
+  </data>
+  <data name="Tab.Home.Product.Social.Link" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">http://www.dnnsoftware.com/solutions/evoq-social-online-community-management?utm_source=dnn-platform-install&amp;amp;utm_medium=web-link&amp;amp;utm_term=evoq-social&amp;amp;utm_content=7.3-banner&amp;amp;utm_campaign=dnn-platform-home</value>
+  </data>
+  <data name="Tab.Home.Product.Social.Link.Title" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">CONSTRUIR E CRESCER AS COMUNIDADES</value>
+  </data>
+  <data name="Tab.Home.Product.Social.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Crescem os usuários, conteúdo crowdsourcing e envolver o seu público através de comunidades on-line.</value>
+  </data>
+  <data name="Tab.Home.SocialLinks.Facebook.Link" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">http://Facebook.com/DotNetNuke</value>
+  </data>
+  <data name="Tab.Home.SocialLinks.LinkedIn.Link" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">http://www.LinkedIn.com/Company/207975</value>
+  </data>
+  <data name="Tab.Home.SocialLinks.Title" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Manter contato com o DNN</value>
+  </data>
+  <data name="Tab.Home.SocialLinks.Twitter.Link" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">http://Twitter.com/dnncorp</value>
+  </data>
+  <data name="Tab.Home.SocialLinks.Youtube.Link" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">http://www.youtube.com/user/DotNetNuke</value>
+  </data>
+  <data name="Tab.Languages.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Idiomas</value>
+  </data>
+  <data name="Tab.Languages.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gestão de linguagem</value>
+  </data>
+  <data name="Tab.Languages.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerencie recursos de linguagem.</value>
+  </data>
+  <data name="Tab.Languages.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Idiomas</value>
+  </data>
+  <data name="Tab.Languages.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Idiomas</value>
+  </data>
+  <data name="Tab.Lists.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Listas de</value>
+  </data>
+  <data name="Tab.Lists.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Listas de</value>
+  </data>
+  <data name="Tab.Lists.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerenciar listas comuns</value>
+  </data>
+  <data name="Tab.Lists.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Listas de</value>
+  </data>
+  <data name="Tab.Lists.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Listas de</value>
+  </data>
+  <data name="Tab.LogViewer.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Visualizador de log</value>
+  </data>
+  <data name="Tab.LogViewer.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Visualizador de log</value>
+  </data>
+  <data name="Tab.LogViewer.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Exiba um log de histórico de eventos de banco de dados, tais como agendas de evento, exceções, logons de conta, alterações de módulo e página, atividades de conta do usuário, atividades de papel de segurança, etc.</value>
+  </data>
+  <data name="Tab.LogViewer.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Visualizador de log</value>
+  </data>
+  <data name="Tab.LogViewer.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Visualizador de log</value>
+  </data>
+  <data name="Tab.MyFriends.CenterPane.MemberDirectoryModule.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Diretório de membros</value>
+  </data>
+  <data name="Tab.MyFriends.CenterPane.ViewProfileModule.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">ViewProfile</value>
+  </data>
+  <data name="Tab.MyFriends.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Meus amigos</value>
+  </data>
+  <data name="Tab.MyFriends.FooterCenterPane.Module.Content.0.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">História</value>
+  </data>
+  <data name="Tab.MyFriends.FooterCenterPane.Module.Content.1.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Carreiras</value>
+  </data>
+  <data name="Tab.MyFriends.FooterCenterPane.Module.Content.2.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Legal</value>
+  </data>
+  <data name="Tab.MyFriends.FooterCenterPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Companhia</value>
+  </data>
+  <data name="Tab.MyFriends.FooterLeftOuterPane.Module.Content.0.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Montanha</value>
+  </data>
+  <data name="Tab.MyFriends.FooterLeftOuterPane.Module.Content.1.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gravidade</value>
+  </data>
+  <data name="Tab.MyFriends.FooterLeftOuterPane.Module.Content.2.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Estrada</value>
+  </data>
+  <data name="Tab.MyFriends.FooterLeftOuterPane.Module.Content.3.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Cidade</value>
+  </data>
+  <data name="Tab.MyFriends.FooterLeftOuterPane.Module.Content.4.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Junior</value>
+  </data>
+  <data name="Tab.MyFriends.FooterLeftOuterPane.Module.Content.5.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Sujeira / rua</value>
+  </data>
+  <data name="Tab.MyFriends.FooterLeftOuterPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Produtos</value>
+  </data>
+  <data name="Tab.MyFriends.FooterLeftPane.Module.Content.0.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Perguntas Freqüentes</value>
+  </data>
+  <data name="Tab.MyFriends.FooterLeftPane.Module.Content.1.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Manuais de moto</value>
+  </data>
+  <data name="Tab.MyFriends.FooterLeftPane.Module.Content.2.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Catálogos de produtos</value>
+  </data>
+  <data name="Tab.MyFriends.FooterLeftPane.Module.Content.3.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Arquivo de produto</value>
+  </data>
+  <data name="Tab.MyFriends.FooterLeftPane.Module.Content.4.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Suporte ao produto</value>
+  </data>
+  <data name="Tab.MyFriends.FooterLeftPane.Module.Content.5.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Garantia de bicicleta</value>
+  </data>
+  <data name="Tab.MyFriends.FooterLeftPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Suporte ao cliente</value>
+  </data>
+  <data name="Tab.MyFriends.FooterRightOuterPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Conectar-se</value>
+  </data>
+  <data name="Tab.MyFriends.FooterRightPane.Module.Content.0.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Demais ciclos, Inc.</value>
+  </data>
+  <data name="Tab.MyFriends.FooterRightPane.Module.Content.1.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">
+3457 W. rua em algum lugar.
+Em algum lugar, CA 12345</value>
+  </data>
+  <data name="Tab.MyFriends.FooterRightPane.Module.Content.2.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">
+Telefone: (555) 555-4563</value>
+  </data>
+  <data name="Tab.MyFriends.FooterRightPane.Module.Content.3.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">
+Fax: (555) 555-4564</value>
+  </data>
+  <data name="Tab.MyFriends.FooterRightPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Contate-nos</value>
+  </data>
+  <data name="Tab.MyFriends.LeftPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">ViewProfile</value>
+  </data>
+  <data name="Tab.MyFriends.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Amigos</value>
+  </data>
+  <data name="Tab.MyFriends.RightPane.MemberDirectoryModule.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Diretório de membros</value>
+  </data>
+  <data name="Tab.MyFriends.RightPane.NavigationModule.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Navegação</value>
+  </data>
+  <data name="Tab.MyFriends.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Meus amigos</value>
+  </data>
+  <data name="Tab.MyMessages.CenterPane.MessageCenterModule.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Centro de mensagens</value>
+  </data>
+  <data name="Tab.MyMessages.CenterPane.ViewProfileModule.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">ViewProfile</value>
+  </data>
+  <data name="Tab.MyMessages.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Minhas mensagens</value>
+  </data>
+  <data name="Tab.MyMessages.FooterCenterPane.Module.Content.0.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">História</value>
+  </data>
+  <data name="Tab.MyMessages.FooterCenterPane.Module.Content.1.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Carreiras</value>
+  </data>
+  <data name="Tab.MyMessages.FooterCenterPane.Module.Content.2.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Legal</value>
+  </data>
+  <data name="Tab.MyMessages.FooterCenterPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Companhia</value>
+  </data>
+  <data name="Tab.MyMessages.FooterLeftOuterPane.Module.Content.0.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Montanha</value>
+  </data>
+  <data name="Tab.MyMessages.FooterLeftOuterPane.Module.Content.1.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gravidade</value>
+  </data>
+  <data name="Tab.MyMessages.FooterLeftOuterPane.Module.Content.2.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Estrada</value>
+  </data>
+  <data name="Tab.MyMessages.FooterLeftOuterPane.Module.Content.3.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Cidade</value>
+  </data>
+  <data name="Tab.MyMessages.FooterLeftOuterPane.Module.Content.4.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Junior</value>
+  </data>
+  <data name="Tab.MyMessages.FooterLeftOuterPane.Module.Content.5.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Sujeira / rua</value>
+  </data>
+  <data name="Tab.MyMessages.FooterLeftOuterPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Produtos</value>
+  </data>
+  <data name="Tab.MyMessages.FooterLeftPane.Module.Content.0.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Perguntas Freqüentes</value>
+  </data>
+  <data name="Tab.MyMessages.FooterLeftPane.Module.Content.1.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Manuais de moto</value>
+  </data>
+  <data name="Tab.MyMessages.FooterLeftPane.Module.Content.2.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Catálogos de produtos</value>
+  </data>
+  <data name="Tab.MyMessages.FooterLeftPane.Module.Content.3.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Arquivo de produto</value>
+  </data>
+  <data name="Tab.MyMessages.FooterLeftPane.Module.Content.4.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Suporte ao produto</value>
+  </data>
+  <data name="Tab.MyMessages.FooterLeftPane.Module.Content.5.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Garantia de bicicleta</value>
+  </data>
+  <data name="Tab.MyMessages.FooterLeftPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Suporte ao cliente</value>
+  </data>
+  <data name="Tab.MyMessages.FooterRightOuterPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Conectar-se</value>
+  </data>
+  <data name="Tab.MyMessages.FooterRightPane.Module.Content.0.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Demais ciclos, Inc.</value>
+  </data>
+  <data name="Tab.MyMessages.FooterRightPane.Module.Content.1.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">
+3457 W. rua em algum lugar.
+Em algum lugar, CA 12345</value>
+  </data>
+  <data name="Tab.MyMessages.FooterRightPane.Module.Content.2.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">
+Telefone: (555) 555-4563</value>
+  </data>
+  <data name="Tab.MyMessages.FooterRightPane.Module.Content.3.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">
+Fax: (555) 555-4564</value>
+  </data>
+  <data name="Tab.MyMessages.FooterRightPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Contate-nos</value>
+  </data>
+  <data name="Tab.MyMessages.LeftPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">ViewProfile</value>
+  </data>
+  <data name="Tab.MyMessages.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Mensagens</value>
+  </data>
+  <data name="Tab.MyMessages.RightPane.MemberDirectoryModule.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Diretório de membros</value>
+  </data>
+  <data name="Tab.MyMessages.RightPane.NavigationModule.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Navegação</value>
+  </data>
+  <data name="Tab.MyMessages.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Minhas mensagens</value>
+  </data>
+  <data name="Tab.MyProfile.CenterPane.ViewProfileModule.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">ViewProfile</value>
+  </data>
+  <data name="Tab.MyProfile.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Meu perfil</value>
+  </data>
+  <data name="Tab.MyProfile.FooterCenterPane.Module.Content.0.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">História</value>
+  </data>
+  <data name="Tab.MyProfile.FooterCenterPane.Module.Content.1.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Carreiras</value>
+  </data>
+  <data name="Tab.MyProfile.FooterCenterPane.Module.Content.2.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Legal</value>
+  </data>
+  <data name="Tab.MyProfile.FooterCenterPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Companhia</value>
+  </data>
+  <data name="Tab.MyProfile.FooterLeftOuterPane.Module.Content.0.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Montanha</value>
+  </data>
+  <data name="Tab.MyProfile.FooterLeftOuterPane.Module.Content.1.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gravidade</value>
+  </data>
+  <data name="Tab.MyProfile.FooterLeftOuterPane.Module.Content.2.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Estrada</value>
+  </data>
+  <data name="Tab.MyProfile.FooterLeftOuterPane.Module.Content.3.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Cidade</value>
+  </data>
+  <data name="Tab.MyProfile.FooterLeftOuterPane.Module.Content.4.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Junior</value>
+  </data>
+  <data name="Tab.MyProfile.FooterLeftOuterPane.Module.Content.5.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Sujeira / rua</value>
+  </data>
+  <data name="Tab.MyProfile.FooterLeftOuterPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Produtos</value>
+  </data>
+  <data name="Tab.MyProfile.FooterLeftPane.Module.Content.0.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Perguntas Freqüentes</value>
+  </data>
+  <data name="Tab.MyProfile.FooterLeftPane.Module.Content.1.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Manuais de moto</value>
+  </data>
+  <data name="Tab.MyProfile.FooterLeftPane.Module.Content.2.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Catálogos de produtos</value>
+  </data>
+  <data name="Tab.MyProfile.FooterLeftPane.Module.Content.3.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Arquivo de produto</value>
+  </data>
+  <data name="Tab.MyProfile.FooterLeftPane.Module.Content.4.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Suporte ao produto</value>
+  </data>
+  <data name="Tab.MyProfile.FooterLeftPane.Module.Content.5.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Garantia de bicicleta</value>
+  </data>
+  <data name="Tab.MyProfile.FooterLeftPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Suporte ao cliente</value>
+  </data>
+  <data name="Tab.MyProfile.FooterRightOuterPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Conectar-se</value>
+  </data>
+  <data name="Tab.MyProfile.FooterRightPane.Module.Content.0.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Demais ciclos, Inc.</value>
+  </data>
+  <data name="Tab.MyProfile.FooterRightPane.Module.Content.1.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">
+3457 W. rua em algum lugar.
+Em algum lugar, CA 12345</value>
+  </data>
+  <data name="Tab.MyProfile.FooterRightPane.Module.Content.2.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">
+Telefone: (555) 555-4563</value>
+  </data>
+  <data name="Tab.MyProfile.FooterRightPane.Module.Content.3.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">
+Fax: (555) 555-4564</value>
+  </data>
+  <data name="Tab.MyProfile.FooterRightPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Contate-nos</value>
+  </data>
+  <data name="Tab.MyProfile.LeftPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">ViewProfile</value>
+  </data>
+  <data name="Tab.MyProfile.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Meu perfil</value>
+  </data>
+  <data name="Tab.MyProfile.RightPane.MemberDirectoryModule.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Diretório de membros</value>
+  </data>
+  <data name="Tab.MyProfile.RightPane.NavigationModule.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Navegação</value>
+  </data>
+  <data name="Tab.MyProfile.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Meu perfil</value>
+  </data>
+  <data name="Tab.PageManagement.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gestão da página</value>
+  </data>
+  <data name="Tab.PageManagement.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gestão da página</value>
+  </data>
+  <data name="Tab.PageManagement.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerencie páginas dentro do site.</value>
+  </data>
+  <data name="Tab.PageManagement.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Páginas</value>
+  </data>
+  <data name="Tab.PageManagement.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gestão da página</value>
+  </data>
+  <data name="Tab.PortalAdministration.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Administração de site</value>
+  </data>
+  <data name="Tab.PortalAdministration.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Características básicas</value>
+  </data>
+  <data name="Tab.PortalAdministration.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Admin</value>
+  </data>
+  <data name="Tab.PortalAdministration.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Administração de site</value>
+  </data>
+  <data name="Tab.RecycleBin.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Lixeira</value>
+  </data>
+  <data name="Tab.RecycleBin.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Lixeira</value>
+  </data>
+  <data name="Tab.RecycleBin.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Visualizar, restaurar ou reciclar permanentemente páginas e módulos que tenham sido excluídos do portal.</value>
+  </data>
+  <data name="Tab.RecycleBin.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Lixeira</value>
+  </data>
+  <data name="Tab.RecycleBin.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Lixeira</value>
+  </data>
+  <data name="Tab.SearchAdmin.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Pesquisa de Admin</value>
+  </data>
+  <data name="Tab.SearchAdmin.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Pesquisa de Admin</value>
+  </data>
+  <data name="Tab.SearchResultsCE.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Resultados da pesquisa</value>
+  </data>
+  <data name="Tab.SearchResultsCE.ContentPane.ResultsModule.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Resultados</value>
+  </data>
+  <data name="Tab.SearchResultsCE.ContentPane.SearchResultsModule.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Resultados da pesquisa</value>
+  </data>
+  <data name="Tab.SearchResultsCE.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Resultados da pesquisa</value>
+  </data>
+  <data name="Tab.SearchResultsCE.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Resultados da pesquisa</value>
+  </data>
+  <data name="Tab.SearchResultsPro.ContentPane.ResultsModule.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Resultados</value>
+  </data>
+  <data name="Tab.SearchResultsPro.ContentPane.SearchResultsModule.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Resultados da pesquisa</value>
+  </data>
+  <data name="Tab.SearchResultsPro.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Resultados da pesquisa</value>
+  </data>
+  <data name="Tab.SearchResultsPro.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Resultados da pesquisa</value>
+  </data>
+  <data name="Tab.SecurityRoles.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Funções de segurança</value>
+  </data>
+  <data name="Tab.SecurityRoles.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Funções de segurança</value>
+  </data>
+  <data name="Tab.SecurityRoles.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerencie funções de segurança para o portal.</value>
+  </data>
+  <data name="Tab.SecurityRoles.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Funções de segurança</value>
+  </data>
+  <data name="Tab.SecurityRoles.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Funções de segurança</value>
+  </data>
+  <data name="Tab.Sharepoint.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Conector do SharePoint</value>
+  </data>
+  <data name="Tab.Sharepoint.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">O módulo de SharePoint Connector permite aos usuários conectar e sincronizar arquivos entre um servidor de DNN e SharePoint.</value>
+  </data>
+  <data name="Tab.Sharepoint.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Conector do SharePoint</value>
+  </data>
+  <data name="Tab.SiteMapSettings.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Configurações de mapa do site</value>
+  </data>
+  <data name="Tab.SiteMapSettings.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Motor de busca mapa do site</value>
+  </data>
+  <data name="Tab.SiteMapSettings.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Configure o sitemap para submissão aos motores de busca comum.</value>
+  </data>
+  <data name="Tab.SiteMapSettings.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Motor de busca mapa do site</value>
+  </data>
+  <data name="Tab.SiteMapSettings.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Configurações de mapa do site</value>
+  </data>
+  <data name="Tab.SiteRedirection.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerenciamento de redirecionamento de site</value>
+  </data>
+  <data name="Tab.SiteRedirection.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerenciamento de redirecionamento de site</value>
+  </data>
+  <data name="Tab.SiteRedirection.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerenciamento de redirecionamento de site.</value>
+  </data>
+  <data name="Tab.SiteRedirection.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerenciamento de redirecionamento de site</value>
+  </data>
+  <data name="Tab.SiteSettings.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Configurações do site</value>
+  </data>
+  <data name="Tab.SiteSettings.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Configurações do site</value>
+  </data>
+  <data name="Tab.SiteSettings.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerencie configurações de configuração para o portal.</value>
+  </data>
+  <data name="Tab.SiteSettings.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Configurações do site</value>
+  </data>
+  <data name="Tab.SiteSettings.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Configurações do site</value>
+  </data>
+  <data name="Tab.SiteWizard.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Assistente do site</value>
+  </data>
+  <data name="Tab.SiteWizard.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Assistente do site</value>
+  </data>
+  <data name="Tab.SiteWizard.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Definir configurações de portal, design da página e aplicar um modelo de site usando um assistente passo a passo.</value>
+  </data>
+  <data name="Tab.SiteWizard.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Assistente do site</value>
+  </data>
+  <data name="Tab.SiteWizard.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Assistente do site</value>
+  </data>
+  <data name="Tab.Skins.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Peles</value>
+  </data>
+  <data name="Tab.Skins.ContentPane.SkinDesignerModule.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Designer de pele</value>
+  </data>
+  <data name="Tab.Skins.ContentPane.SkinEditorModule.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Editor da pele</value>
+  </data>
+  <data name="Tab.Skins.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerencie recursos de pele.</value>
+  </data>
+  <data name="Tab.Skins.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Peles</value>
+  </data>
+  <data name="Tab.Skins.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Peles</value>
+  </data>
+  <data name="Tab.Taxonomy.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Taxonomia</value>
+  </data>
+  <data name="Tab.Taxonomy.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerente de taxonomia</value>
+  </data>
+  <data name="Tab.Taxonomy.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerencie a taxonomia para seu Site.</value>
+  </data>
+  <data name="Tab.Taxonomy.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Taxonomia</value>
+  </data>
+  <data name="Tab.Taxonomy.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Taxonomia</value>
+  </data>
+  <data name="Tab.UserAccounts.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Contas de usuário</value>
+  </data>
+  <data name="Tab.UserAccounts.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Contas de usuário</value>
+  </data>
+  <data name="Tab.UserAccounts.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerencie contas de usuário do Portal.</value>
+  </data>
+  <data name="Tab.UserAccounts.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Contas de usuário</value>
+  </data>
+  <data name="Tab.UserAccounts.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Contas de usuário</value>
+  </data>
+  <data name="Tab.Vendors.Content.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Fornecedores</value>
+  </data>
+  <data name="Tab.Vendors.ContentPane.Module.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Fornecedores</value>
+  </data>
+  <data name="Tab.Vendors.Description.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Gerenciar contas de fornecedor, banner publicidade e referências dentro do portal de afiliados.</value>
+  </data>
+  <data name="Tab.Vendors.Name.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Fornecedores</value>
+  </data>
+  <data name="Tab.Vendors.Title.Text" lastModified="2016-07-26 02:40:54">
+    <value xml:space="preserve">Fornecedores</value>
+  </data>
+</root>

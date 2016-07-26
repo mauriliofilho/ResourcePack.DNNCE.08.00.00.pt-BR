@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="plConfirm.Help" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">Re-digite sua senha para confirmar.</value>
+  </data>
+  <data name="plConfirm.Text" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">Confirme:</value>
+  </data>
+  <data name="plEmail.Help" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">Digite seu endereço de e-mail.</value>
+  </data>
+  <data name="plEmail.Text" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">Endereço de e-mail:</value>
+  </data>
+  <data name="plFirstName.Help" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">Digite seu primeiro nome.</value>
+  </data>
+  <data name="plFirstName.Text" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">Primeiro nome:</value>
+  </data>
+  <data name="plIM.Help" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">Digite seu ID de mensagens instantâneas (Skype, Yahoo, Google, etc).</value>
+  </data>
+  <data name="plIM.Text" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">Instant Messenger ID:</value>
+  </data>
+  <data name="plLastName.Help" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">Digite seu sobrenome.</value>
+  </data>
+  <data name="plLastName.Text" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">Último nome:</value>
+  </data>
+  <data name="plPassword.Help" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">Escolha uma senha.</value>
+  </data>
+  <data name="plPassword.Text" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">Senha:</value>
+  </data>
+  <data name="plUserName.Help" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">Escolha um nome de usuário.  Se o nome de usuário já existe... você terá a oportunidade de selecionar um nome alternativo.</value>
+  </data>
+  <data name="plUserName.Text" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">Nome de usuário:</value>
+  </data>
+  <data name="plWebsite.Help" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">Digite seu endereço de site.</value>
+  </data>
+  <data name="plWebsite.Text" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">Web site:</value>
+  </data>
+  <data name="valConfirm1.Text" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">&lt;br&gt;Confirmação de senha é necessária.</value>
+  </data>
+  <data name="valConfirm2.Text" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">&lt;br&gt;Valores de senha inseridas não coincidem.</value>
+  </data>
+  <data name="valEmail1.Text" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">&lt;br&gt;E-mail é necessário.</value>
+  </data>
+  <data name="valEmail2.Text" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">&lt;br&gt;E-mail deve ser válido.</value>
+  </data>
+  <data name="valFirstName.Text" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">&lt;br&gt;Primeiro nome é necessário.</value>
+  </data>
+  <data name="valLastName.Text" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">&lt;br&gt;O sobrenome é necessário.</value>
+  </data>
+  <data name="valPassword.Text" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">&lt;br&gt;Senha é necessária.</value>
+  </data>
+  <data name="valUsername.Text" lastModified="2016-07-26 02:32:33">
+    <value xml:space="preserve">&lt;br&gt;Nome de usuário é necessária.</value>
+  </data>
+</root>
