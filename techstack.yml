@@ -1,7 +1,8 @@
 repo_name: mauriliofilho/ResourcePack.DNNCE.08.00.00.pt-BR
 report_id: c83a73b1117c79c451f6b527b45b26e4
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T15:47:24+00:00'
+timestamp: '2024-01-05T08:31:02+00:00'
 requested_by: mauriliofilho
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mauriliofilho/ResourcePack.DNNCE.08.00.00.pt-BR
   detection_source: Repo Metadata
